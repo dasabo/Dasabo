@@ -286,7 +286,7 @@
                                             nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
                                             eaque
                                             molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
+                                        <small>www.domainnam.com</small>
                                     </blockquote>
                                 </div>
                                 <div class="col-sm-4">
