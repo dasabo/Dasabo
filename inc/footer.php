@@ -120,17 +120,17 @@
     </div>
 
     <!-- JAVASCRIPT FILES -->
-    <script src="../js/jquery.js"></script>
+    <script src="/js/jquery.js"></script>
     <!-- contact form -->
-    <script src="../js/validator.js"></script>
-    <script src="../js/contact.js"></script>
+    <script src="/js/validator.js"></script>
+    <script src="/js/contact.js"></script>
     <!-- bootstrap-->
-    <script src="../js/bootsnav.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
+    <script src="/js/bootsnav.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <!-- AOS animation -->
-    <script src="../js/aos.js"></script>
+    <script src="/js/aos.js"></script>
     <!-- custom javascript file -->
-   <script src="../js/custom.js"></script> 
+   <script src="/js/custom.js"></script> 
    <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
