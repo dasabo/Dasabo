@@ -68,7 +68,7 @@
                                                 <li><a href="../wordpress-hosting.php">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
                                                 <li><a href="../prestashop-hosting.php">Prestashop Hosting</a></li>
                                                 <li><a href="../joomla-hosting.php">Joomla Hosting</a></li>
-                                                <li><a href="../drupal-hosting.php">Drupal Hosting</a></li>
+                                                <li><a href="../magento-hosting.php">Magento Hosting</a></li>
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->

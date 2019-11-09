@@ -363,7 +363,7 @@ li {
 
 .btn-large {
     font-size: 15px;
-    padding: 14px 42px 14px;
+    padding: 1.5rem 7rem;
 }
 
 .btn>i {
@@ -2279,9 +2279,20 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu>li>a:hover {
 
 /* background pages */
 .default-header.wordpress-page {
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, transparent 80%, transparent 100%), url(../images/headers/wordpress.jpeg) center;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, transparent 80%, transparent 100%), url(../images/headers/laptop-centered-wp.jpg) center;
 }
 
+.default-header.prestashop-page {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, transparent 80%, transparent 100%), url(../images/headers/prestashop.jpeg) center;
+}
+
+.default-header.joomla-page {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, transparent 80%, transparent 100%), url(../images/headers/joomla.jpeg) center;
+}
+
+.default-header.magento-page {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, transparent 80%, transparent 100%), url(../images/headers/magento.jpeg) center;
+}
 .default-header.cloud-page {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 30%, transparent 80%, transparent 100%), url(../images/headers/cloud.jpeg) center;
 }
@@ -3294,4 +3305,3 @@ footer .partners {
     opacity: 0;
   }
 }
-

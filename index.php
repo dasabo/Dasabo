@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="style/other/animate.css">
     <!-- Main css style -->
     <link rel="stylesheet" href="style/style.css">
+	
     <!-- main responsive css file -->
     <link rel="stylesheet" href="style/responsive.css">
     <!-- CSS FILES end -->
@@ -266,7 +267,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>			
                 <div class="col-sm-6">
                     <div class="right-content">
                         <div class="features">
@@ -295,6 +296,7 @@
             </div>
         </div>
     </div>
+</div>
 <div class="layout-text right-layout padding-bottom50 padding-top50">
       <div class="container">
         <div class="row">
