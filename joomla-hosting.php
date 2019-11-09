@@ -144,7 +144,7 @@
                             </div>
                         </div>
                         <div class="features">
-                            <i class="fab fa-Joomla pull-left aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200"></i>
+                            <i class="fab fa-joomla pull-left aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200"></i>
                             <div class="text">
                                 <h4>Free Joomla Migrator</h4>
                                 <p>We offer a free managed migration service for everyone in our plans.</p>
