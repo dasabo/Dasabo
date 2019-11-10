@@ -23,19 +23,19 @@
                 <div class="col-sm-2">
                     <h4>Hosting Services</h4>
                     <ul>
-                      <li><a href="../shared-hosting.php">Shared Hosting</a></li>
-                      <li><a href="../cloud-hosting.php">Cloud Hosting</a></li>
+                      <li><a href="./shared-hosting.php">Shared Hosting</a></li>
+                      <li><a href="./cloud-hosting.php">Cloud Hosting</a></li>
                         <li><a href="#">Dedicated Hosting</a></li>
-                        <li><a href="../reseller-hosting.php">Reseller</a></li>
+                        <li><a href="./reseller-hosting.php">Reseller</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-2">
                   <h4>CMS Hosting</h4>
                   <ul>
-                    <li><a href="../wordpress-hosting.php">Wordpress Hosting</a></li>
-					  <li><a href="../prestashop-hosting.php">Prestashop Hosting</a></li>
-					  <li><a href="../joomla-hosting.php">Joomla Hosting</a></li>
-					  <li><a href="../drupal-hosting.php">Drupal Hosting</a></li>
+                    <li><a href="./wordpress-hosting.php">Wordpress Hosting</a></li>
+					  <li><a href="./prestashop-hosting.php">Prestashop Hosting</a></li>
+					  <li><a href="./joomla-hosting.php">Joomla Hosting</a></li>
+					  <li><a href="./drupal-hosting.php">Drupal Hosting</a></li>
                         
                         
                     </ul>
@@ -98,13 +98,13 @@
 
                 <div class="col-sm-4 un_img">
                     <div class="col-sm-4">
-                        <a href="#"> <img src="../images/other/footer-img1.png" class="img-responsive" alt=""></a>
+                        <a href="#"> <img src="./images/other/footer-img1.png" class="img-responsive" alt=""></a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="#"> <img src="../images/other/footer-img2.png" class="img-responsive" alt=""></a>
+                        <a href="#"> <img src="./images/other/footer-img2.png" class="img-responsive" alt=""></a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="#"> <img src="../images/other/footer-img3.png" class="img-responsive" alt=""></a>
+                        <a href="#"> <img src="./images/other/footer-img3.png" class="img-responsive" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -120,17 +120,17 @@
     </div>
 
     <!-- JAVASCRIPT FILES -->
-    <script src="/js/jquery.js"></script>
+    <script src="./js/jquery.js"></script>
     <!-- contact form -->
-    <script src="/js/validator.js"></script>
-    <script src="/js/contact.js"></script>
+    <script src="./js/validator.js"></script>
+    <script src="./js/contact.js"></script>
     <!-- bootstrap-->
-    <script src="/js/bootsnav.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
+    <script src="./js/bootsnav.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
     <!-- AOS animation -->
-    <script src="/js/aos.js"></script>
+    <script src="./js/aos.js"></script>
     <!-- custom javascript file -->
-   <script src="/js/custom.js"></script> 
+   <script src="./js/custom.js"></script> 
    <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
