@@ -38,7 +38,7 @@ function toggleAccordion() {
 items.forEach(item => item.addEventListener('click', toggleAccordion));
 
 // preloader
-$("#fakeLoader").fakeLoader();
+//$("#fakeLoader").fakeLoader();
 // preloader call ends here
 
 /* Javascript code for pricing tables */
