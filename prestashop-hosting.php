@@ -187,7 +187,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="images/png-images/PS-dash.png" class="img-responsive img-shadow aos-init aos-animate" alt="" data-aos="fade-right">
+                    <img src="images/png-images/ps-dash.png" class="img-responsive img-shadow aos-init aos-animate" alt="" data-aos="fade-right">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="text-container aos-init aos-animate" data-aos="fade-up">
