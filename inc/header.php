@@ -54,10 +54,10 @@
                                         <h6 class="title"><i class="fas fa-cloud-download-alt"></i>Hosting Services</h6>
                                         <div class="content">
                                             <ul class="menu-col">
-                                                <li><a href="../shared-hosting.php">Shared Hosting</a></li>
-                                                <li><a href="../cloud-hosting.php">Cloud Hosting <span class="badge-link">Hot</span></a></li>
+                                                <li><a href="shared-hosting">Shared Hosting</a></li>
+                                                <li><a href="cloud-hosting">Cloud Hosting <span class="badge-link">Hot</span></a></li>
                                                 <li><a href="#">Dedicated Hosting<span class="badge-link blinkme">Soon</span></a></li>
-                                                <li><a href="../reseller-hosting.php">Reseller Hosting</a></li>                                          
+                                                <li><a href="reseller-hosting">Reseller Hosting</a></li>                                          
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
@@ -65,10 +65,10 @@
                                         <h6 class="title"><i class="fas fa-cloud-download-alt"></i> CMS Hosting</h6>
                                         <div class="content">
                                             <ul class="menu-col">
-                                                <li><a href="../wordpress-hosting.php">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
-                                                <li><a href="../prestashop-hosting.php">Prestashop Hosting</a></li>
-                                                <li><a href="../joomla-hosting.php">Joomla Hosting</a></li>
-                                                <li><a href="../magento-hosting.php">Magento Hosting</a></li>
+                                                <li><a href="wordpress-hosting">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
+                                                <li><a href="prestashop-hosting">Prestashop Hosting</a></li>
+                                                <li><a href="joomla-hosting">Joomla Hosting</a></li>
+                                                <li><a href="magento-hosting">Magento Hosting</a></li>
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
