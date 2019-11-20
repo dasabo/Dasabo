@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-sm-6">
                   <h3>Any other doubts? Not sure where to start?</h3>
-                  <p>We have all the resources to help you make the right choice.</p>
+                  <p>We know that sometimes the choice can be confusing, the DASABO ​​team will be ready to assist you.</p>
                 </div>
                 <div class="col-sm-6">
                     <div class="buttons">
@@ -144,3 +144,4 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+	

@@ -4573,12 +4573,12 @@ http://www.tipue.com/tipr
     @media screen and (min-width: 48em) {
       .masthead__aside .image--static,
       .masthead__aside .svg--anim {
-        padding: 3rem;
+        padding: 5rem;
         transform: translateY(-50%) translateX(-50%) skewX(8deg);
         left: 50%;
         position: absolute;
-        top: 50%;
-        width: 18rem; } }
+        top: 15%;
+        width: 24rem; } }
     @media screen and (min-width: 56.25em) {
       .masthead__aside .image--static,
       .masthead__aside .svg--anim {
@@ -6644,29 +6644,29 @@ td {
 .chart__litespeed .chart__stat,
 .label__speed,
 .label__server,
-.stat__guru.stat__speed,
-.stat__guru.stat__server {
+.stat__dasabo.stat__speed,
+.stat__dasabo.stat__server {
   margin-bottom: .8rem; }
 
 .stat__traditional.stat__speed {
   width: 5.5%; }
 
-.stat__guru.stat__speed {
+.stat__dasabo.stat__speed {
   width: 55.5%; }
 
 .stat__traditional.stat__server {
   width: 18%; }
 
-.stat__guru.stat__server {
+.stat__dasabo.stat__server {
   width: 88.8%; }
 
 .stat__traditional.stat__disk {
   width: 5.5%; }
 
-.stat__guru.stat__disk {
+.stat__dasabo.stat__disk {
   width: 44.4%; }
 
-.chart__litespeed__php .stat__guru.stat__litespeed {
+.chart__litespeed__php .stat__dasabo.stat__litespeed {
   width: 81.2032%; }
 
 .chart__litespeed__php .stat__traditional.stat__nginx {
@@ -6675,7 +6675,7 @@ td {
 .chart__litespeed__php .stat__traditional.stat__apache {
   width: 2.3296%; }
 
-.chart__litespeed__static .stat__guru.stat__litespeed {
+.chart__litespeed__static .stat__dasabo.stat__litespeed {
   width: 96%; }
 
 .chart__litespeed__static .stat__traditional.stat__nginx {
