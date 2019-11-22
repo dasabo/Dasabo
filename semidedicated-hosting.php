@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <!-- Meta tags -->
+    <!--- Meta tags --->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Bluerack - The most powerful web hosting template with fully customized WHMCS Template">
@@ -10,8 +10,8 @@
     <meta name="author" content="ThemeKolor">
     <meta name="keywords" content="vps,dedicated,cloud,hosting,hosting template,whmcs, hosting whmcs,whmcs template">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
-    <!-- Page title -->
-    <title>Shared Hosting</title>
+    <!--- Page title --->
+    <title>Semi-Dedicated Hosting</title>
     <!-- CSS FILES -->
     <link rel="stylesheet" href="css/fontawesome-icons/css/all.min.css">
     <link rel="stylesheet" href="css/bootsnav.css">
@@ -33,29 +33,26 @@
 <?php include 'inc/header.php'; ?>
     <!-- FINE INCLUSIONE HEADER -->
 
-    <body>
+    <body class="page-pro">
         <!-- Default Page Header -->
         <header class="masthead  content  content-blue-gradient">
             <div class="grid">
                 <div class="masthead-content  content-pad">
-                    <h1 class=""><p>Shared Cloud Hosting</p></h1>
+                    <h1 class=""><p>Semi-Dedicated Cloud Hosting</p></h1>
 
-                    <p>Our shared hosting is the best solution for customers who require maximum performance and excellent support.</p>
-                    <p>Satisfied or refunded policy. </p>
+                    <p>More resources allocated at times of greater load, completely managed by our team for you.</p>
+                    <p>Order now and we will activate it in a few minutes.</p>
 
                 </div>
 
                 <aside class="masthead-aside">
-                    <div class="svg-anim active" id="uptime-anim">
-                        <svg class="uptime-anim" data-name="uptime anim" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.63 146.83" style="visibility: visible;">
-                        
-                            <img src="images/svg/server.svg"></img>
+                    <div class="svg-anim active" id="offsite-anim">
+                        <<svg>
+                            <img src="images/svg/semidedicated.svg"></img>
 
-                        </svg>
+                            </svg>
                     </div>
 
-                </aside>
-            </div>
         </header>
         <!-- Default Page Header ends here -->
         <nav id="contentNav" class="nav-internal  content-dblue">
@@ -65,11 +62,11 @@
                 <li><a href="#performance" id="performance-anchor">Performance</a></li>
                 <li><a href="#specs" id="specs-anchor">Full Specs</a></li>
                 <li><a href="#faqs" id="faqs-anchor">FAQs</a></li>
-                <li class="btn-feature"><a href="#order" id="order-anchor" class="btn  btn-primary  btn-narrow">Order</a></li>
+                <li class="btn-feature"><a href="#order" id="order-anchor" class="btn  btn-pro  btn-narrow">Order</a></li>
             </ul>
         </nav>
 
-       <!-- INIZIO FEATURES -->
+        <!-- INIZIO FEATURES -->
         <section class="content  content-pad  whiteBG" id="features">
             <div class="grid">
                 <h1 class="margin-double-mq">Strong and powerful cloud infrastructure for your business!</h1>
@@ -121,96 +118,68 @@
                 </div>
             </div>
         </section>
-		<!-- FINE FEATURES -->
+        <!-- FINE FEATURES -->
         <section class="content  content-pad  content-dblue" id="order">
-            <div class="grid-wide">
-                <h1 class="center  margin-double-mq">Order DASABO Shared Hosting now and be set up in minutes</h1>
+            <div class="grid">
+                <h1 class="center  margin-double-mq">Activation in a few minutes ...</h1>
 
-                <div class="clear">
-                    <div class="item-triple">
-                        <div class="text-kilo  list-h2  bullets-large-tick-filter">
-                            <h2>All our plans include</h2>
+                <div class="pricing">
+                    <div class="content  content-split-half">
+                        <h2>Semi-Dedicatd Hosting Features</h2>
+                        <div class="text-kilo  list-h2  bullets-large-tick-filter  bullets-large-tick-yellow">
                             <ul>
-                                <li>SSD NVMe Storage
-                                </li>
+                                <li>SSD NVMe Storage</li>
                                 <li>Unlimited Bandwidth
                                 </li>
                             </ul>
                         </div>
 
-                        <div class="bullets-large-tick-filter">
+                        <div class="list-split  bullets-large-tick-filter  bullets-large-tick-yellow">
                             <ul>
-                                <li>Unlimited mySQL Databases
-                                </li>
-                                <li>Unlimited Domains
-                                </li>
-                                <li>Accelerated for WordPress</li>
-                                <li>100% Super Flash Storage
-                                </li>
-                                <li>Free Let's Encrypt Certificates
-                                </li>
+                                <li>Unlimited mySQL Databases</li>
+                                <li>Unlimited Domains</li>
+                                <li>SSD/NVMe Storage</li>
+                                <li>Best Uptime</li>
+                                <li>Free SSL Certificates</li>
+                                <li>PCI Compliant</li>
+                                <li>GDPR Ready</li>
                                 <li>Unlimited FTP Account</li>
-                                <li>24x7 Free Support</li>
-                                <li>Unlimited Mailboxes
-                                </li>
+                                <li>Hourly backup</li>
+                                <li>Unlimited Mailboxes</li>
                             </ul>
                         </div>
+
+                        <ul class="bullets-remove  clear  bullets-large-tick-filter">
+                        </ul>
                     </div>
 
-                    <div class="pricing-item-triple  content-light ">
+                    <div class="pricing-item  content-light  pro-pricing">
                         <header class="pricing-header">
                             <div class="pricing-title">
-                                <h2 class="margin-none">Caterpillar</h2>
-                                <h6 class="margin-quarter  planSubtitle-margin">Shared Hosting</h6> </div>
+                                <h2 class="margin-none"><p class="margin-none">Semi-Dedicated</p></h2>
+                                <h6 class="margin-quarter  planSubtitle-margin">Cloud Hosting</h6> </div>
 
                             <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text-giga  margin-none">£4.99</div>
+                                <div class="text-giga  margin-none">€24.99</div>
                                 <h7 class="pricing-period">/Month</h7>
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Hosting at its best; secure, low contention and high performance.</p>
+                        <p class="pricing-desc">Higher performance for heavy sites.</p>
 
-                        <ul class="pricing-desc  pricing-list  bullets-small-tick">
-                            <li>Backups included</li>
-                            <li>Fully managed hosting</li>
-                            <li>24x7 support</li>
-
+                        <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
+                            <li>Free migration service</li>
+                            <li>Hourly Backups</li>
+                            <li>CloudLinux &amp; LiteSpeed Powered</li>
+                            <li>Optimized for Applications</li>
+                            <li>Dedicated IPv4</li>
                         </ul>
 
-                        <a href="https://my.DASABO.co.uk/cart.php?gid=2&amp;promocode=XMAS" class="btn  btn-hollow  btn-full">Order Now</a>
-                    </div>
-                    <div class="pricing-item-triple  content-light ">
-                        <header class="pricing-header">
-                            <div class="pricing-title">
-                                <h2 class="margin-none">Butterfly</h2>
-                                <h6 class="margin-quarter  planSubtitle-margin">Shared Hosting</h6> </div>
-
-                            <div class="pricing-price">
-                                <h7>From</h7>
-                                <div class="text-giga  margin-none">£9.99</div>
-                                <h7 class="pricing-period">/Month</h7>
-                            </div>
-                        </header>
-
-                        <p class="pricing-desc">Delivers an extra performance boost over our regular Shared Hosting, adding:</p>
-
-                        <ul class="pricing-desc  pricing-list  bullets-small-tick">
-                            <li>Dedicated extra resources for you</li>
-                            <li>Double Processor and Memory allocations for busy websites </li>
-                            <li>Free WebSite Migration</li>
-
-                        </ul>
-
-                        <a href="https://my.DASABO.co.uk/cart.php?gid=2&amp;promocode=XMAS" class="btn  btn-hollow  btn-full">Order Now</a>
+                        <a href="https://my.guru.co.uk/cart.php?gid=2&amp;pro=1&amp;promocode=XMAS" class="btn  btn-pro  btn-full">Order Now</a>
                     </div>
                 </div>
 
-                <div class="center  content-split-2third  additional-content-icon">
-                    <p><img src="assets/chart-growth.svg" alt="Need more?..." title="Need more?..."></p>
-                    <p>Need more? Go for our <a href="shared-hosting-pro.html"><strong>Shared Hosting Pro</strong></a></p>
-                </div>
             </div>
         </section>
         <!-- BLOCCO APPLICAZIONI -->
@@ -280,8 +249,8 @@
                 </ul>
             </div>
         </section>
-		<!-- FINE BLOCCO APPLICAZIONI -->
-		<!-- BLOCCO PERFORMANCE -->
+        <!-- FINE BLOCCO APPLICAZIONI -->
+        <!-- BLOCCO PERFORMANCE -->
         <section class="content-pad animateme content-lblue active" id="performance">
             <div class="grid">
                 <h1 class="margin-double-mq">Best Performance Hosting</h1>
@@ -358,11 +327,11 @@
                 </div>
             </div>
         </section>
-		<!-- FINE BLOCCO PERFORMANCE -->
+        <!-- FINE BLOCCO PERFORMANCE -->
         <!-- Faq -->
         <section class="content  content-pad  content-dblue" id="specs">
             <div class="grid">
-                <h1 class="margin-double-mq">Technical specifications of our Shared Hosting plans</h1>
+                <h1 class="margin-double-mq">Technical specifications of our Semi-Dedicated Hosting</h1>
 
                 <div class="full">
                     <div class="triple-item  bullets-small-tick">
@@ -479,6 +448,187 @@
                     </div>
 
                 </div>
+            </div>
+        </section>
+        <section class="content content-pad animateme content-lblue active">
+            <div class="grid">
+                <h1 class="center  margin-double-mq">Shared Hosting vs Semi-Dedicated</h1>
+
+                <table class="table-grey  rtable">
+                    <thead>
+                        <tr>
+                            <th></th>
+
+                            <th class="bg-dblue  pricing-header">
+                                <h2 class="margin-none">Shared Hosting</h2>
+                                <th class="pro-pricing  pricing-header">
+                                    <h2 class="margin-none"><p class="margin-none">Semi-Dedicated </h2>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="table-row-major-both">
+                                <p>Disk Space</p>
+                            </td>
+                            <td class="table-row-major-both  content-pro">
+                                <p>30GB</p>
+                            </td>
+                            <td class="table-row-major-both  content-pro">
+                                <p>60GB</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-major-both">
+                                <p>Number of domains</p>
+                            </td>
+                            <td class="table-row-major-both  content-pro">
+                                <p>Unlimited</p>
+                            </td>
+                            <td class="table-row-major-both  content-pro">
+                                <p>Unlimited</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-major-star">
+                                <p>Bandwidth</p>
+                            </td>
+                            <td class="table-row-major-star">
+                                <p>Unlimited</p>
+                            </td>
+                            <td class="table-row-major-star  content-pro">
+                                <p>Unlimited</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
+                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-major-star">
+                                <p>CPU</p>
+                            </td>
+                            <td class="table-row-major-star">
+                                <p>Single</p>
+                            </td>
+                            <td class="table-row-major-star  content-pro">
+                                <p>Multiple</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
+                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-major-star">
+                                <p>Memory</p>
+                            </td>
+                            <td class="table-row-major-star">
+                                <p>x1</p>
+                            </td>
+                            <td class="table-row-major-star  content-pro">
+                                <p>x4</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
+                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-major-star">
+                                <p>Off-site Backups</p>
+                            </td>
+                            <td class="table-row-major-star">
+                                <p>Every 12 hours</p>
+                            </td>
+                            <td class="table-row-major-star  content-pro">
+                                <p>Every single hour</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
+                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-major-star">
+                                <p>Semi-Dedicated</p>
+                            </td>
+                            <td class="table-row-major-star">
+                                <p>No</p>
+                            </td>
+                            <td class="table-row-major-star  content-pro">
+                                <p>Yes</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
+                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
+                                </svg>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-minor">
+                                <p>cPanel/WHM</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-minor">
+                                <p>CloudLInux</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="table-row-minor">
+                                <p>Free SSL Certificates</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-minor">
+                                <p>SpamFiltering (In Bound/out Bound)</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-minor">
+                                <p>LiteSpeed Web Server Powered</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="table-row-minor">
+                                <p>Dedicated IP Address</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>No (Extra €2/month)</p>
+                            </td>
+                            <td class="table-row-minor">
+                                <p>Yes (Extra €2/month)</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
             </div>
         </section>
         <section class="content  content-pad  content-medblue" id="faqs">
