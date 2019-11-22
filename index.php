@@ -170,14 +170,14 @@
             </div>
         </div>
         <!-- Domain Search section ends here -->
-        <section class="content--pad">
+        <section class="content-pad">
             <div class="grid">
-                <article class="content__simple  margin--double--mq">
+                <article class="content-simple  margin-double-mq">
                     <h2 class="center">Ultra-fast WordPress, WooCommerce, Joomla, Prestashop, Drupal, Opencart, Magento & more...</h2>
                     <h5 class="center">Optimised for all your favourite applications</h5>
                 </article>
 
-                <ul class="application__logos  application__logos__featured">
+                <ul class="application-logos  application-logos-featured">
 
                     <li>
                         <a href="application-hosting/wordpress-hosting.html" description="Dasabo's WordPress Hosting">
@@ -221,34 +221,34 @@
                                             </a>
                                             <h5><a href="application-hosting/prestashop-hosting.html">Prestashop Hosting</a></h5>
                 </ul>
-                <ul class="application__logos  application__logos__sub" id="subApps">
+                <ul class="application-logos  application-logos-sub" id="subApps">
         </section>
         <!-- Pricing Tables -->
-        <section class="content--pad  content--dblue" id="pricing">
-            <div class="grid__wide">
-                <h1 class="center  margin--half">Fully Managed Hosting Services</h1>
+        <section class="content-pad  content-dblue" id="pricing">
+            <div class="grid-wide">
+                <h1 class="center  margin-half">Fully Managed Hosting Services</h1>
 
-                <h2 class="center  margin--double--mq">Price locked for life! </h2>
+                <h2 class="center  margin-double-mq">Price locked for life! </h2>
 
-                <div class="pricing  pricing__triple">
-                    <div class="pricing__item__3  content  content--light">
-                        <header class="pricing__header">
-                            <div class="pricing__title">
-                                <h2 class="margin--none">Shared</h2>
-                                <h6 class="margin--quarter  planSubtitle--margin">Cloud Hosting</h6>
-                                <div class="pro__includes-available  margin--half"><a href="shared-hosting-pro.html" class="link--subtle"><span class="text--milli  label--sml">Available in</span></a> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="badge__pro  badge__pro--sml  tip">Pro<span class="badge__help">?</span></abbr></div>
+                <div class="pricing  pricing-triple">
+                    <div class="pricing-item-3  content  content-light">
+                        <header class="pricing-header">
+                            <div class="pricing-title">
+                                <h2 class="margin-none">Shared</h2>
+                                <h6 class="margin-quarter  planSubtitle-margin">Cloud Hosting</h6>
+                                <div class="pro-includes-available  margin-half"><a href="shared-hosting-pro.html" class="link-subtle"><span class="text-milli  label-sml">Available in</span></a> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="badge-pro  badge-pro-sml  tip">Pro<span class="badge-help">?</span></abbr></div>
                             </div>
 
-                            <div class="pricing__price">
+                            <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text--giga  margin--none"><span class="price--new">£3.99</span><span class="price--original">£9.99 </span></div>
-                                <h7 class="pricing__period  pricing__period--promo">/Month</h7>
+                                <div class="text-giga  margin-none"><span class="price-new">£3.99</span><span class="price-original">£9.99 </span></div>
+                                <h7 class="pricing-period  pricing-period-promo">/Month</h7>
                             </div>
                         </header>
 
-                        <p class="pricing__desc">Fully Managed UK Web Hosting optimised for your application. Secure, easy control panel, high performance and our legendary 24x7 support.</p>
+                        <p class="pricing-desc">Fully Managed UK Web Hosting optimised for your application. Secure, easy control panel, high performance and our legendary 24x7 support.</p>
 
-                        <ul class="pricing__desc  pricing__list  bullets--small-tick">
+                        <ul class="pricing-desc  pricing-list  bullets-small-tick">
                             <li>Perfect for WordPress &amp; WooCommerce</li>
                             <li>Backups as standard</li>
                             <li>cPanel &amp; LiteSpeed Powered</li>
@@ -258,29 +258,29 @@
                         </ul>
 
                         <hr/>
-                        <h3 class="font--heading  margin--half  center">Learn More</h3>
+                        <h3 class="font-heading  margin-half  center">Learn More</h3>
                         <div class="center  clear">
-                            <a href="shared-hosting.html" class="btn  btn--pair--full ">Shared</a>
-                            <a href="shared-hosting-pro.html" class="btn  btn--dark  btn--pair--full"><span class="btn--with-badge">Shared</span> <span class="badge__pro  badge__pro--sml--alt2">Pro</span></a> </div>
+                            <a href="shared-hosting.html" class="btn  btn-pair-full ">Shared</a>
+                            <a href="shared-hosting-pro.html" class="btn  btn-dark  btn-pair-full"><span class="btn-with-badge">Shared</span> <span class="badge-pro  badge-pro-sml-alt2">Pro</span></a> </div>
                     </div>
-                    <div class="pricing__item__3  content  content--light  pricing__feature">
-                        <header class="pricing__header">
-                            <div class="pricing__title">
-                                <h2 class="margin--none">Reseller</h2>
-                                <h6 class="margin--quarter  planSubtitle--margin">Cloud Hosting</h6>
-                                <div class="pro__includes-available  margin--half"><a href="reseller-hosting-pro.html" class="link--subtle"><span class="text--milli  label--sml">Available in</span></a> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="badge__pro  badge__pro--sml  tip">Pro<span class="badge__help">?</span></abbr></div>
+                    <div class="pricing-item-3  content  content-light  pricing-feature">
+                        <header class="pricing-header">
+                            <div class="pricing-title">
+                                <h2 class="margin-none">Reseller</h2>
+                                <h6 class="margin-quarter  planSubtitle-margin">Cloud Hosting</h6>
+                                <div class="pro-includes-available  margin-half"><a href="reseller-hosting-pro.html" class="link-subtle"><span class="text-milli  label-sml">Available in</span></a> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="badge-pro  badge-pro-sml  tip">Pro<span class="badge-help">?</span></abbr></div>
                             </div>
 
-                            <div class="pricing__price">
+                            <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text--giga  margin--none"><span class="price--new">£1</span><span class="price--original">£24.99 </span></div>
-                                <h7 class="pricing__period  pricing__period--promo">/Month</h7>
+                                <div class="text-giga  margin-none"><span class="price-new">£1</span><span class="price-original">£24.99 </span></div>
+                                <h7 class="pricing-period  pricing-period-promo">/Month</h7>
                             </div>
                         </header>
 
-                        <p class="pricing__desc">Create secure cPanel accounts on our high performance managed cloud. Make your WordPress fly.</p>
+                        <p class="pricing-desc">Create secure cPanel accounts on our high performance managed cloud. Make your WordPress fly.</p>
 
-                        <ul class="pricing__desc  pricing__list  bullets--small-tick">
+                        <ul class="pricing-desc  pricing-list  bullets-small-tick">
                             <li>Backups as standard</li>
                             <li>cPanel/WHM Included </li>
                             <li>CloudLinux Security &amp; LiteSpeed Performance</li>
@@ -290,29 +290,29 @@
                         </ul>
 
                         <hr/>
-                        <h3 class="font--heading  margin--half  center">Learn More</h3>
+                        <h3 class="font-heading  margin-half  center">Learn More</h3>
                         <div class="center  clear">
-                            <a href="reseller-hosting.html" class="btn  btn--pair--full ">Reseller</a>
-                            <a href="reseller-hosting-pro.html" class="btn  btn--dark  btn--pair--full"><span class="btn--with-badge">Reseller</span> <span class="badge__pro  badge__pro--sml--alt2">Pro</span></a> </div>
+                            <a href="reseller-hosting.html" class="btn  btn-pair-full ">Reseller</a>
+                            <a href="reseller-hosting-pro.html" class="btn  btn-dark  btn-pair-full"><span class="btn-with-badge">Reseller</span> <span class="badge-pro  badge-pro-sml-alt2">Pro</span></a> </div>
                     </div>
-                    <div class="pricing__item__3  content  content--light">
-                        <header class="pricing__header">
-                            <div class="pricing__title">
-                                <h2 class="margin--none">Dedicated</h2>
-                                <h6 class="margin--quarter  planSubtitle--margin">Cloud Server</h6>
-                                <div class="pro__includes-available  margin--half"><span class="text--milli  label--sml">Includes</span> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="tip  badge__pro  badge__pro--sml">Pro<span class="badge__help">?</span></abbr></div>
+                    <div class="pricing-item-3  content  content-light">
+                        <header class="pricing-header">
+                            <div class="pricing-title">
+                                <h2 class="margin-none">Dedicated</h2>
+                                <h6 class="margin-quarter  planSubtitle-margin">Cloud Server</h6>
+                                <div class="pro-includes-available  margin-half"><span class="text-milli  label-sml">Includes</span> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="tip  badge-pro  badge-pro-sml">Pro<span class="badge-help">?</span></abbr></div>
                             </div>
 
-                            <div class="pricing__price">
+                            <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text--giga  margin--none"><span class="price--new">£1</span><span class="price--original">£129 </span></div>
-                                <h7 class="pricing__period  pricing__period--promo">/Month</h7>
+                                <div class="text-giga  margin-none"><span class="price-new">£1</span><span class="price-original">£129 </span></div>
+                                <h7 class="pricing-period  pricing-period-promo">/Month</h7>
                             </div>
                         </header>
 
-                        <p class="pricing__desc">Private cloud server fully managed and configured for secure, high performance application hosting. Backed by our renowned 24x7 expert support.</p>
+                        <p class="pricing-desc">Private cloud server fully managed and configured for secure, high performance application hosting. Backed by our renowned 24x7 expert support.</p>
 
-                        <ul class="pricing__desc  pricing__list  bullets--small-tick  bullets--pro">
+                        <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
                             <li>Optimised for WordPress, Magento &amp; more</li>
                             <li>Hourly Backups as standard</li>
                             <li>cPanel &amp; LiteSpeed Powered</li>
@@ -322,12 +322,12 @@
                         </ul>
 
                         <hr/>
-                        <h3 class="font--heading  margin--half  center">Learn More</h3>
-                        <a href="dedicated-hosting.html" class="btn  btn--pro  btn--full"><span class="btn--with-badge">Dedicated</span> <span class="badge__pro badge__pro--reverse badge__pro--sml--alt2">Pro</span></a>
+                        <h3 class="font-heading  margin-half  center">Learn More</h3>
+                        <a href="dedicated-hosting.html" class="btn  btn-pro  btn-full"><span class="btn-with-badge">Dedicated</span> <span class="badge-pro badge-pro-reverse badge-pro-sml-alt2">Pro</span></a>
                     </div>
                 </div>
 
-                <div class="center  clear  content__simple  margin--top">
+                <div class="center  clear  content-simple  margin-top">
                     <p><a href="shared-hosting.html">Shared</a>, <a href="reseller-hosting.html">Reseller </a>and <a href="dedicated-hosting.html">Dedicated </a>Hosting Plans come with our ultra-fast WordPress, WooCommerce, Magento, Drupal, Joomla and PrestaShop cache service as standard. </p>
                 </div>
             </div>
@@ -432,38 +432,38 @@
         </div>
     </section>
 	
-  <section class="content--mblue  content__triple-blocks  center" id="performance">
-			<h1 class="grid  padding--top">Why thousands trust Dasabo's Hosting</h1>
+  <section class="content-mblue  content-triple-blocks  center" id="performance">
+			<h1 class="grid  padding-top">Why thousands trust Dasabo's Hosting</h1>
 	
-			<div class="content__triple__item">
+			<div class="content-triple-item">
 			<h2>Performance</h2>
 			
-															<div class="svg--anim" id="security-anim">
+															<div class="svg-anim" id="security-anim">
 	<img src="images/svg/performance.svg"></img>
 	
 </div>
 		
 					
-			<div class="text--left"><ul><li>High Performance Web Server</li><li>Latest Generation Hardware
+			<div class="text-left"><ul><li>High Performance Web Server</li><li>Latest Generation Hardware
  </li><li>SSD Flash Storage</li><li>HTTP/2 and QUIC Enabled</li><li>100Gbps Network <strong><br></strong></li></ul></div>
 		</div>
-			<div class="content__triple__item">
+			<div class="content-triple-item">
 			<h2>Security</h2>
 			
-													<div class="svg--anim" id="security-anim">
+													<div class="svg-anim" id="security-anim">
 	<img src="images/svg/firewall.svg"></img>
 	
 </div>						
-			<div class="text--left"><ul><li>PCI-DSS Scan Compliant</li><li>Free SSL Certificates</li><li>Private Account Environment </li><li>Web Application Firewall (WAF)</li><li>1500Gbps DDOS Protection<strong><br></strong></li></ul></div>
+			<div class="text-left"><ul><li>PCI-DSS Scan Compliant</li><li>Free SSL Certificates</li><li>Private Account Environment </li><li>Web Application Firewall (WAF)</li><li>1500Gbps DDOS Protection<strong><br></strong></li></ul></div>
 		</div>
-			<div class="content__triple__item">
+			<div class="content-triple-item">
 			<h2>Reliability</h2>
 			
-																									<div class="svg--anim" id="security-anim">
+																									<div class="svg-anim" id="security-anim">
 	<img src="images/svg/shield.svg"></img>
 	
 </div>					
-			<div class="text--left"><ul><li>100% Uptime Guarantee
+			<div class="text-left"><ul><li>100% Uptime Guarantee
  </li><li>24/7 UK Based Helpdesk</li><li>Self-Healing Intelligent Cloud</li><li>Backups Included As Standard</li><li>Data Replicated Hourly Off-site<strong><br></strong></li></ul></div>
 		</div> 
 	</section>
