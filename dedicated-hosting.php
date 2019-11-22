@@ -155,7 +155,7 @@
                             </li>
                         </ul>
 
-                        <a href="https://my.guru.co.uk/cart.php?a=add&amp;pid=75" class="btn  btn-pro  btn-full">Order Now</a>
+                        <a href="https://my.dasabo.co.uk/cart.php?a=add&amp;pid=75" class="btn  btn-pro  btn-full">Order Now</a>
                     </div>
                     <div class="pricing-item-3  content  content-light  pricing-feature">
                         <header class="pricing-header">
@@ -187,7 +187,7 @@
                             </li>
                         </ul>
 
-                        <a href="https://my.guru.co.uk/cart.php?a=add&amp;pid=76" class="btn  btn-pro  btn-full">Order Now</a>
+                        <a href="https://my.dasabo.co.uk/cart.php?a=add&amp;pid=76" class="btn  btn-pro  btn-full">Order Now</a>
                     </div>
                     <div class="pricing-item-3  content  content-light">
                         <header class="pricing-header">
@@ -219,7 +219,7 @@
                             </li>
                         </ul>
 
-                        <a href="https://my.guru.co.uk/cart.php?a=add&amp;pid=77" class="btn  btn-pro  btn-full">Order Now</a>
+                        <a href="https://my.dasabo.co.uk/cart.php?a=add&amp;pid=77" class="btn  btn-pro  btn-full">Order Now</a>
                     </div>
                 </div>
 
