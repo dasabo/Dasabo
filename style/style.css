@@ -657,10 +657,10 @@ a.navbar-btn {
 }
 nav.navbar.bootsnav li.dropdown ul.dropdown-menu {
     border: 0 solid #e0e0e0;
-    box-shadow: 0 0 40px rgba(73, 61, 94, 0.15);
-    border-radius: 10px;
-    margin-top: -5px;
-	background: #263152;
+	box-shadow: 0 0 40px rgb(28, 36, 47);
+	margin-top: -5px;
+	background:#222d3a;
+	opacity: 0.99 !important;
 }
 .wrap-sticky nav.navbar.bootsnav.sticked {
     z-index: 22;
@@ -682,6 +682,12 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
     padding-left: 1px;
 }
 
+navmenulower {
+	
+	padding-right:90px;
+	
+}
+
 nav.navbar.bootsnav .title {
     font-size: 13px;
     border-bottom: 1px solid rgba(240, 240, 240, 0.1);
@@ -691,7 +697,7 @@ nav.navbar.bootsnav .title {
 }
 
 nav.navbar.bootsnav .title i {
-    color: #456bca;
+    color: #1E9FB5;
     padding-right: 4px;
 }
 
@@ -3702,7 +3708,7 @@ body,
     body,
     .text-base {
       font-size: calc(1rem + 10%);
-      line-height: 1.8; } }
+      line-height: 1; } }
 
 h5,
 .text-deci {

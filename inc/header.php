@@ -44,14 +44,14 @@
 			
             <div class="collapse navbar-collapse" id="navbar-menu">
                 <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">             
-				  <li><a href="#">Domain</a></li>
-                  <li class="dropdown megamenu-fw">
+				  <li ><a href="#">Domain</a></li>
+                  <li class="dropdown megamenu-fw navmenulower">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
                         <ul class="dropdown-menu megamenu-content" role="menu">
                             <li>
                                 <div class="row">
                                      <div class="col-menu col-md-3">
-                                        <h6 class="title"><i class="fas fa-cloud-download-alt"></i>Hosting Services</h6>
+                                        <h6 style="color:#fff" class="title"><i class="fas fa-cloud-download-alt"></i>Hosting Services</h6>
                                         <div class="content">
                                             <ul class="menu-col">
                                                 <li><a href="shared-hosting">Shared Hosting</a></li>
@@ -62,7 +62,7 @@
                                         </div>
                                     </div><!-- end col-3 -->
                                    <div class="col-menu col-md-3">
-                                        <h6 class="title"><i class="fas fa-cloud-download-alt"></i> CMS Hosting</h6>
+                                        <h6 style="color:#fff"class="title"><i class="fas fa-cloud-download-alt"></i> CMS Hosting</h6>
                                         <div class="content">
                                             <ul class="menu-col">
                                                 <li><a href="wordpress-hosting">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
@@ -73,7 +73,7 @@
                                         </div>
                                     </div><!-- end col-3 -->
                                     <div class="col-menu col-md-3">
-                                        <h6 class="title"><i class="fas fa-tachometer-alt"></i>Server</h6>
+                                        <h6 style="color:#fff" class="title"><i class="fas fa-tachometer-alt"></i>Server</h6>
                                         <div class="content">
                                             <ul class="menu-col">
                                                 <li><a href="#">Virtual Private Server</a></li>
@@ -84,7 +84,7 @@
                                         </div>
                                     </div> 
                                     <div class="col-menu col-md-3">
-                                        <h6 class="title"><i class="fa fa-rocket"></i>Cloud</h6>
+                                        <h6 style="color:#fff" class="title"><i class="fa fa-rocket"></i>Cloud</h6>
                                         <div class="content">
                                             <ul class="menu-col">
                                                 <li><a href="#">VPS Cloud</a></li>                                              
@@ -95,7 +95,7 @@
                             </li>
                         </ul>
                     </li>                 
-					<li class="dropdown">
+					<li class="dropdown navmenulower">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Security</a>
                         <ul class="dropdown-menu">
                             <li><a href="#">SSL</a></li>      
@@ -103,9 +103,82 @@
                         </ul>
                     </li> 
                   
-                      <li>  <a href="#">Affiliate</a>   </li>                               
-                </ul>
+                      <li class="navmenulower">  <a href="#">Affiliate</a>   </li>                               
+                </ul>	
             </div><!-- /.navbar-collapse -->
+			
+			
+			
+			<center>
+			<div class="collapse navbar-collapse" id="navbar-menu">
+                <ul class="nav navbar-nav " data-in="fadeIn" data-out="fadeOut" style="margin-left:0%">             
+				  <li style="padding-right:95px; padding-left:95px;"><a href="#">Domain</a></li>
+                  <li style="padding-right:95px; padding-left:95px;" class="dropdown megamenu-fw">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                        <ul class="dropdown-menu megamenu-content" role="menu">
+                            <li>
+                                <div class="row">
+                                     <div class="col-menu col-md-3">
+                                        <h6 style="color:#fff" class="title"><i class="fas fa-cloud-download-alt"></i>Hosting Services</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="shared-hosting">Shared Hosting</a></li>
+                                                <li><a href="cloud-hosting">Cloud Hosting <span class="badge-link">Hot</span></a></li>
+                                                <li><a href="#">Dedicated Hosting<span class="badge-link blinkme">Soon</span></a></li>
+                                                <li><a href="reseller-hosting">Reseller Hosting</a></li>                                          
+                                            </ul>
+                                        </div>
+                                    </div><!-- end col-3 -->
+                                   <div class="col-menu col-md-3">
+                                        <h6 style="color:#fff"class="title"><i class="fas fa-cloud-download-alt"></i> CMS Hosting</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="wordpress-hosting">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
+                                                <li><a href="prestashop-hosting">Prestashop Hosting</a></li>
+                                                <li><a href="joomla-hosting">Joomla Hosting</a></li>
+                                                <li><a href="magento-hosting">Magento Hosting</a></li>
+                                            </ul>
+                                        </div>
+                                    </div><!-- end col-3 -->
+                                    <div class="col-menu col-md-3">
+                                        <h6 style="color:#fff" class="title"><i class="fas fa-tachometer-alt"></i>Server</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="#">Virtual Private Server</a></li>
+                                                <li><a href="#">Dedicated Server</a></li>
+                                                <li><a href="#">Game Server</a></li>
+                                                <li><a href="#">Storage Server <span class="badge-link">Offer</span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div> 
+                                    <div class="col-menu col-md-3">
+                                        <h6 style="color:#fff" class="title"><i class="fa fa-rocket"></i>Cloud</h6>
+                                        <div class="content">
+                                            <ul class="menu-col">
+                                                <li><a href="#">VPS Cloud</a></li>                                              
+                                            </ul>
+                                        </div>
+                                    </div><!-- end col-3 -->
+                                </div><!-- end row -->
+                            </li>
+                        </ul>
+                    </li>                 
+					<li style="padding-right:95px; padding-left:95px;" class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Security</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">SSL</a></li>      
+							<li><a href="#">VPN<span class="badge-link">Soon</span></a></li> 							
+                        </ul>
+                    </li> 
+                  
+                      <li style="padding-right:95px; padding-left:95px;">  <a href="#">Affiliate</a>   </li>                               
+                </ul>	
+            </div>
+			</center>
+			
+			
+			
+			
         </div>
         <!-- Start Side Menu -->
         <div class="side">
