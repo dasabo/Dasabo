@@ -178,7 +178,7 @@
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Hosting at its best; secure, low contention and high performance.</p>
+                        <p class="pricing-desc">Manage different accounts in one simple and intuitive area.</p>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick">
                             <li>Hourly Backups as standard</li>
@@ -203,7 +203,7 @@
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Delivers an extra performance boost over our regular Shared Hosting, adding:</p>
+                        <p class="pricing-desc">All standard package services with additional and dedicated resources.</p>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick">
                             <li>Hourly Backups as standard</li>
