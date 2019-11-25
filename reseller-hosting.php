@@ -224,75 +224,150 @@
             </div>
         </section>
     <!-- Layout - Text right  -->
-    <div class="layout-text right-layout gray-layout padding-bottom50 padding-top50">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="images/png-images/cpanel.png" class="img-responsive img-shadow" alt="" data-aos="fade-right">
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="text-container" data-aos="fade-up">
-                        <h3>Simple and intuitive cPanel</h3>
-                        <div class="text-content">
-                            <i class="far fa-check-circle pull-left"></i>
-                            <div class="text">
-                                <p>No complications, no surprises. The perfect control panel to manage your business quickly and easily.</p>
-                            </div>
-                        </div>
-                        <div class="text-content">
-                            <i class="far fa-check-circle pull-left"></i>
-                            <div class="text">
-                                <p>The goal is to make you independent in managing your work. With our web hosting plans you have everything under control through cPanel.</p>
-                            </div>
-                        </div>
-                        <div class="buttons">
-                            <a href="javascript:void(Tawk_API.toggle())" class="btn btn-medium btn-green">Get More Information <i class="fas fa-long-arrow-alt-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Layout - Text right ends here  -->
-<div class="boxes-one padding-top50 padding-bottom50">
-        <div class="custom-width">
-            <div class="main-title title-white text-center">
-                <h2>At Your Servicee</h2>
-                <p>Our in-house team is on hand 24/7 to not only solve technical issues, but to offer the guidance and technical support you need to succeed online.</p>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="box">
-                        <img data-aos="zoom-in" src="images/icons/6.png" class="img-responsive img-center aos-init aos-animate" alt="Hosting">
-                        <h4>24/7 Livechat Support</h4>
-                        <p>We are at your side every day of the year in live chat to answer all your questions.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="box">
-                        <img data-aos="zoom-in" data-aos-delay="100" src="images/icons/7.png" class="img-responsive img-center aos-init aos-animate" alt="Hosting">
-                        <h4>Send Unlimited Tickets</h4>
-                        <p>Send unlimited tickets or emails, our team will answer you within a few hours.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="box">
-                        <img data-aos="zoom-in" data-aos-delay="200" src="images/icons/8.png" class="img-responsive img-center aos-init aos-animate" alt="Hosting">
-                        <h4>Free Website Transfer</h4>
-                        <p>We transfer your site to another provider for you for free. Contact Us!</p>                     
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="box">
-                        <img data-aos="zoom-in" data-aos-delay="300" src="images/icons/4.png" class="img-responsive img-center aos-init aos-animate" alt="Hosting">
-                        <h4>Fully Managed Servers</h4>
-                        <p>All our services are managed by our technical team, you won't have to think about anything.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
+    <!-- Layout - Text right ends here  -->
+<section class="content-pad" id="applications">
+            <div class="grid">
+                <article class="content-simple">
+                    <h1>Application Ultra-Fast With Us!</h1>
+                    
+                </article>
+
+                <ul class="application-logos  application-logos-featured">
+
+                    <li>
+                        <a href="application-hosting/wordpress-hosting.html" description="Find out more on DASABO's WordPress Hosting">
+
+                            <svg class="icon icon-wordpress">
+                                </svg><img src="images/svg/wordpress.svg">
+                            
+                        </a>
+                        <h5><a href="application-hosting/wordpress-hosting.html">WordPress Hosting</a></h5>
+
+                    </li>
+                    <li>
+                        <a href="application-hosting/drupal-hosting.html" description="Find out more on DASABO's Drupal Hosting">
+
+                            <svg class="icon icon-drupal">
+                                </svg><img src="images/svg/drupal.svg">
+                            
+                        </a>
+                        <h5><a href="application-hosting/drupal-hosting.html">Drupal Hosting</a></h5>
+
+                    </li>
+                    <li>
+                        <a href="application-hosting/joomla-hosting.html" description="Find out more on DASABO's Joomla Hosting">
+
+                            <svg class="icon icon-joomla">
+                                </svg><img src="images/svg/joomla.svg">
+                            
+                        </a>
+                        <h5><a href="application-hosting/joomla-hosting.html">Joomla Hosting</a></h5>
+
+                    </li>
+                    <li>
+                        <a href="application-hosting/woocommerce-hosting" description="Find out more on DASABO's WooCommerce Hosting">
+
+                            <svg class="icon icon-woocommerce">
+                                </svg><img src="images/svg/woocommerce.svg">
+                            
+                        </a>
+                        <h5><a href="application-hosting/woocommerce-hosting">WooCommerce Hosting</a></h5>
+
+                    </li>
+                    <li>
+                        <a href="application-hosting/prestashop-hosting.html" description="Find out more on DASABO's Prestashop Hosting">
+
+                            <svg class="icon icon-prestashop">
+                                </svg><img src="images/svg/prestashop.svg">
+                            
+                        </a>
+                        <h5><a href="application-hosting/prestashop-hosting.html">Prestashop Hosting</a></h5>
+                    </li>
+                </ul>
+
+                <ul class="application-logos  application-logos-sub" id="subApps">
+                    <hr>
+
+                </ul>
+            </div>
+        </section>
+<section class="content-pad animateme content-lblue active" id="performance">
+            <div class="grid">
+                <h1 class="margin-double-mq">Best Performance Hosting</h1>
+
+                <div class="content-chart">
+                    <p>DASABO's ​​hosting platform was built with speed and quality in mind.</p>
+                    <p>We use the latest hardware, NVMe based storage and a network capacity of over 150Gbit/s ensuring maximum performance for your site.</p>
+                </div>
+
+                <div class="wrapper-chart">
+                    <legend class="chart-legend">
+                        <h6 class="legend-item  legend-traditional">
+					Traditional Hosting
+				</h6> vs
+                        <h6 class="legend-item  legend-DASABO">
+					DASABO's Superfast Hosting
+				</h6>
+                    </legend>
+                    <div class="chart  chart-performance">
+                        <ul class="chart-labels">
+                            <li class="label-speed">
+                                <h6>Speed</h6></li>
+                            <li class="label-server">
+                                <h6>Web Server</h6></li>
+                            <li class="label-disk">
+                                <h6>Disks</h6></li>
+                        </ul>
+
+                        <ul class="charts">
+                            <li class="chart-stat  stat-traditional  stat-speed"><span>x1</span></li>
+                            <li class="chart-stat  stat-dasabo  stat-speed"><span>x10 Faster</span></li>
+
+                            <li class="chart-stat  stat-traditional  stat-server"><span>x3.65</span></li>
+                            <li class="chart-stat  stat-dasabo  stat-server"><span>x16 Faster</span></li>
+
+                            <li class="chart-stat  stat-traditional  stat-disk"><span>x2</span></li>
+                            <li class="chart-stat  stat-dasabo  stat-disk"><span>x8 Faster</span></li>
+                        </ul>
+
+                        <ul class="chart-lines">
+                            <li class="line"></li>
+                            <li class="line">
+                                <h7 class="line-label">x2</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x4</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x6</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x8</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x10</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x12</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x14</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x16</h7>
+                            </li>
+                            <li class="line">
+                                <h7 class="line-label">x18</h7>
+                            </li>
+                        </ul>
+                        <footer class="chart-footnote">
+                            <h7>Faster</h7>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+        </section>
     <!-- Faq -->
     <div class="faq padding-bottom50 padding-top50 gray-bg">
         <div class="custom-width">
