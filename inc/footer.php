@@ -18,7 +18,7 @@
 
     <!-- Dark Footer -->
 
-    <footer class="light-footer dark-footer" style="text-align: center;">
+    <footer class="light-footer dark-footer">
         <div class="custom-width">
           <div class="row" style="padding-bottom:50px;">
             <div class="col-sm-4" style="margin-top:10px;">
@@ -102,10 +102,10 @@
         <div class="custom-width">
             <div class="row">
               <br/>
-              <div class="col-sm-6" style="margin-top:13px;">
+              <div class="col-sm-8" style="margin-top:13px;">
                 <p>Dasabo Hosting S.r.l. - Strada popau cicienscu 13, 300790 Timisoara - VAT RO658473838</p>
               </div>
-              <div class="col-sm-6">
+              <div class="col-sm-4" style="text-align:right;">
                 <img src="https://i0.wp.com/cypruscomiccon.org/wp-content/uploads/2015/07/Paypal-logo-white.svg1_.png?ssl=1" height="15" style="opacity:0.6; margin-right:5px;">
                 <img src="https://images.squarespace-cdn.com/content/5b3fc2ca9f87705888c407e6/1531182428926-5ST24G5DGOGJWTTTJJ27/Mastercard-logo.png?format=1000w&content-type=image%2Fpng" height="35" style="opacity:0.6; margin-right:5px;">
                 <img src="http://www.pngall.com/wp-content/uploads/2017/05/Visa-Logo-PNG-Image.png" height="15" style="opacity:0.6; margin-right:5px;">
