@@ -106,10 +106,10 @@
                 <p>Dasabo Hosting S.r.l. - Strada popau cicienscu 13, 300790 Timisoara - VAT RO658473838</p>
               </div>
               <div class="col-sm-6">
-                <img src="https://i0.wp.com/cypruscomiccon.org/wp-content/uploads/2015/07/Paypal-logo-white.svg1_.png?ssl=1" height="15" style="opacity:0.6;">
-                <img src="https://images.squarespace-cdn.com/content/5b3fc2ca9f87705888c407e6/1531182428926-5ST24G5DGOGJWTTTJJ27/Mastercard-logo.png?format=1000w&content-type=image%2Fpng" height="35" style="opacity:0.6;">
-                <img src="http://www.pngall.com/wp-content/uploads/2017/05/Visa-Logo-PNG-Image.png" height="15" style="opacity:0.6;">
-                <img src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-logo-black-and-white.png" height="15" style="opacity:0.6;">
+                <img src="https://i0.wp.com/cypruscomiccon.org/wp-content/uploads/2015/07/Paypal-logo-white.svg1_.png?ssl=1" height="15" style="opacity:0.6; margin-right:5px;">
+                <img src="https://images.squarespace-cdn.com/content/5b3fc2ca9f87705888c407e6/1531182428926-5ST24G5DGOGJWTTTJJ27/Mastercard-logo.png?format=1000w&content-type=image%2Fpng" height="35" style="opacity:0.6; margin-right:5px;">
+                <img src="http://www.pngall.com/wp-content/uploads/2017/05/Visa-Logo-PNG-Image.png" height="15" style="opacity:0.6; margin-right:5px;">
+                <img src="https://www.trzcacak.rs/myfile/full/113-1131803_white-bitcoin-logo-with-transparent-background-bitcoin.png" height="15" style="opacity:0.6; margin-right:5px;">
               </div>
             </div>
         </div>
