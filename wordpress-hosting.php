@@ -108,7 +108,7 @@
                             </div>
 					
                             <div class="buttons">
-                                <a href="#" class="btn btn-blue btn-medium"> Purchase Now</a>
+                                <a href="#" class="btn btn-blue btn-medium"> Purchase Now!</a>
                             </div>
                         </div>
                     </div>
