@@ -48,7 +48,8 @@
 </style>
             <div class="row">
                 <div class="col-sm-3">
-                    <h4>Hosting Services</h4>
+                    <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Hosting Services</h4>
+
                     <ul>
                       <li><a class="linkfooterpro" href="./shared-hosting.php">Shared Hosting</a></li>
                       <li><a class="linkfooterpro" href="./cloud-hosting.php">Cloud Hosting</a></li>
@@ -57,7 +58,8 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4>CMS Hosting</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">CMS Hosting</h4>
+
                   <ul>
                     <li><a class="linkfooterpro" href="./wordpress-hosting.php">Wordpress Hosting</a></li>
 					  <li><a  class="linkfooterpro" href="./prestashop-hosting.php">Prestashop Hosting</a></li>
@@ -68,8 +70,10 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4>Server</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Server</h4>
+
                   <ul>
+
                     <li><a class="linkfooterpro" href="#">Virtual Private Server</a></li>
                         <li><a class="linkfooterpro" href="#">Dedicated Server</a></li>
                         <li><a class="linkfooterpro" href="#">Game Server</a></li>
@@ -77,7 +81,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4>Cloud</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Cloud</h4>
                   <ul>
                     <li><a class="linkfooterpro" href="#">VPS Cloud</a></li>
                         <li><a class="linkfooterpro" href="#">Cloud Hosting</a></li>
@@ -98,7 +102,15 @@
         <div class="custom-width">
             <div class="row">
               <br/>
+              <div class="col-sm-6" style="margin-top:13px;">
                 <p>Dasabo Hosting S.r.l. - Strada popau cicienscu 13, 300790 Timisoara - VAT RO658473838</p>
+              </div>
+              <div class="col-sm-6">
+                <img src="https://i0.wp.com/cypruscomiccon.org/wp-content/uploads/2015/07/Paypal-logo-white.svg1_.png?ssl=1" height="15" style="opacity:0.6;">
+                <img src="https://images.squarespace-cdn.com/content/5b3fc2ca9f87705888c407e6/1531182428926-5ST24G5DGOGJWTTTJJ27/Mastercard-logo.png?format=1000w&content-type=image%2Fpng" height="35" style="opacity:0.6;">
+                <img src="http://www.pngall.com/wp-content/uploads/2017/05/Visa-Logo-PNG-Image.png" height="15" style="opacity:0.6;">
+                <img src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-logo-black-and-white.png" height="15" style="opacity:0.6;">
+              </div>
             </div>
         </div>
     </div>
