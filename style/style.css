@@ -6069,6 +6069,14 @@ a.badge-pro {
 
 .footer-help-call {
   padding-top: .25rem; }
+  
+.linkfooterpro {
+  color:#b8b8b8;
+}
+
+.linkfooterpro:hover {
+  color:#fff;
+}
 
 .content-faqs {
   display: table; }

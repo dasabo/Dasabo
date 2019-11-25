@@ -37,31 +37,26 @@
             </div>
           </div>
 
-<style>
-.linkfooterpro {
-  color:#b8b8b8;
-}
 
-.linkfooterpro:hover {
-  color:#fff;
-}
-</style>
             <div class="row">
                 <div class="col-sm-3">
-                    <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Hosting Services</h4>
+                    <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Services</h4>
 
                     <ul>
-                      <li><a class="linkfooterpro" href="./shared-hosting.php">Shared Hosting</a></li>
-                      <li><a class="linkfooterpro" href="./cloud-hosting.php">Cloud Hosting</a></li>
-                        <li><a class="linkfooterpro" href="#">Dedicated Hosting</a></li>
-                        <li><a class="linkfooterpro" href="./reseller-hosting.php">Reseller</a></li>
+                      <li><a class="linkfooterpro" href="./shared-hosting.php">Shared Cloud Hosting</a></li>
+                      <li><a class="linkfooterpro" href="./cloud-hosting.php">Semi-Dedicated Cloud Hosting</a></li>           
+                        <li><a class="linkfooterpro" href="#">Dedicated Cloud Hosting</a></li>
+                        <li><a class="linkfooterpro" href="./reseller-hosting.php">Reseller Hosting</a></li>
+						<li><a class="linkfooterpro" href="./wordpress-hosting.php">Domain Registration</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">CMS Hosting</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Application</h4>
 
                   <ul>
                     <li><a class="linkfooterpro" href="./wordpress-hosting.php">Wordpress Hosting</a></li>
+					<li><a class="linkfooterpro" href="./wordpress-hosting.php">Woocommerce Hosting</a></li>
+					<li><a class="linkfooterpro" href="./wordpress-hosting.php">Magento Hosting</a></li>
 					  <li><a  class="linkfooterpro" href="./prestashop-hosting.php">Prestashop Hosting</a></li>
 					  <li><a class="linkfooterpro" href="./joomla-hosting.php">Joomla Hosting</a></li>
 					  <li><a class="linkfooterpro" href="./drupal-hosting.php">Drupal Hosting</a></li>
@@ -81,10 +76,13 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Cloud</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Company</h4>
                   <ul>
-                    <li><a class="linkfooterpro" href="#">VPS Cloud</a></li>
-                        <li><a class="linkfooterpro" href="#">Cloud Hosting</a></li>
+                    <li><a class="linkfooterpro" href="#">About Us</a></li>
+                        <li><a class="linkfooterpro" href="#">Contact</a></li>
+						<li><a class="linkfooterpro" href="#">Legal</a></li>
+						<li><a class="linkfooterpro" href="#">Careers</a></li>
+						<li><a class="linkfooterpro" href="#">Sitemap</a></li>
                   </ul>
                 </div>
 
