@@ -35,7 +35,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand aligment-for-home" href="./"><img src="./images/logo/white.svg" class="logo"
+                <a class="navbar-brand aligment-for-home" href="./"><img src="./images/logo/logo/vector/default-monochrome.svg" class="logo"
                         alt=""></a>
             </div>
             <!-- End Header Navigation -->
