@@ -56,7 +56,7 @@
                         <li><a href="#">Cloud Hosting</a></li>             
                   </ul>
                 </div>
-                <div class="col-sm-2">
+                <div class="col-sm-4">
                   <h4>Dasabo Limited</h4>
                   <div class="location-info">
                     <h5>United Kindom, UK</h5>
@@ -65,16 +65,15 @@
                     <h5><em class="fa fa-envelope"></em> hello@dasabo.net</h5>
                     <h5><em class="fa fa-phone"></em> +44 (207) 8552 501</h5>
                   </div>
-                </div>
-                <div class="col-sm-2">
-                    <h4>Social Media</h4>
-                    <div class="social-media">
+                  
+                  <div class="social-media">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"> <i class="fab fa-google"></i></a>
                         <a href="#"> <i class="fab fa-linkedin-in"></i></a>
                         <a href="#"> <i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
+               
                 <div class="col-sm-12"> </div>
             </div>
         </div>
@@ -110,7 +109,7 @@
             </div>
         </div>
     </div>
-    <!-- under footer section ends here-->
+    <!-- under footer section ends here-->f
 	<div class="under-footer2">
         <div class="custom-width">
             <div class="row">
