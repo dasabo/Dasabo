@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-
 <head>
     <!-- Meta tags -->
     <meta charset="utf-8">
@@ -34,9 +33,8 @@
             <div class="row">
                 <div class="col-sm-7">
                     <div class="header-text">
-                        <h2>Powerful Wordpress Hosting</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form</p>
+                        <h2>Managed Wordpress Hosting</h2>
+                        <p>If your WordPress website is your passion, business or just a personal hobby, <br>we want you to succeed and grow.</p>
                         <h4>Starting at <span>€9.90/monthly</span></h4>
                         <h3>€3.90/monthly</h3>
                     </div>
