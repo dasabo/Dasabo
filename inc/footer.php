@@ -48,7 +48,8 @@
 </style>
             <div class="row">
                 <div class="col-sm-3">
-                    <h4>Hosting Services</h4>
+                    <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Hosting Services</h4>
+
                     <ul>
                       <li><a class="linkfooterpro" href="./shared-hosting.php">Shared Hosting</a></li>
                       <li><a class="linkfooterpro" href="./cloud-hosting.php">Cloud Hosting</a></li>
@@ -57,7 +58,8 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4>CMS Hosting</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">CMS Hosting</h4>
+
                   <ul>
                     <li><a class="linkfooterpro" href="./wordpress-hosting.php">Wordpress Hosting</a></li>
 					  <li><a  class="linkfooterpro" href="./prestashop-hosting.php">Prestashop Hosting</a></li>
@@ -68,8 +70,10 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4>Server</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Server</h4>
+
                   <ul>
+
                     <li><a class="linkfooterpro" href="#">Virtual Private Server</a></li>
                         <li><a class="linkfooterpro" href="#">Dedicated Server</a></li>
                         <li><a class="linkfooterpro" href="#">Game Server</a></li>
@@ -77,7 +81,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-3">
-                  <h4>Cloud</h4>
+                  <h4 style="border-bottom: 1px solid rgba(240, 240, 240, 0.1);">Cloud</h4>
                   <ul>
                     <li><a class="linkfooterpro" href="#">VPS Cloud</a></li>
                         <li><a class="linkfooterpro" href="#">Cloud Hosting</a></li>
