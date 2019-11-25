@@ -39,6 +39,17 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
 
 /* Navbar
 =================================*/
+nav.navbar.bootsnav ul.nav > li > .uppermenupro {
+    color:#222D3A !important;
+    font-size: 13px;
+}
+
+ nav.navbar.bootsnav ul.nav > li > .uppermenupro:hover {
+    color:#f67a3c !important;
+    font-size: 13px;
+}
+
+
 nav.navbar.bootsnav {
     margin-bottom: 0;
     -moz-border-radius: 0px;
