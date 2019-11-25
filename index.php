@@ -71,7 +71,7 @@
                             <div class="col-sm-6">
                                 <div class="text-container">
                                     <div class="home-title animated fadeInLeft">
-                                        <h2>Powerful Website Hosting</h2>
+                                        <h2>Powerful Website Hosting dav</h2>
                                         <h4 class="animation-text">Starting at
                                         $19.99/monthly</h4>
                                         <p>For small or big websites, our website hosting includes 24/7 support and DDoS Protection as standard
