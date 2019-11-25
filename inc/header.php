@@ -13,9 +13,10 @@
                     Account</a>
             </div>
         </div>
-    </div> 
+    </div>
     <!-- End of topbar -->
 <!-- Navbar content -->
+<script defer src="https://friconix.com/cdn/friconix.js"></script> 
     <nav class="navbar navbar-default dark navbar-sticky no-background bootsnav" style="background: #fff; !important;">
         <!-- Start Top Search -->
         <div class="top-search">
@@ -41,29 +42,29 @@
             <!-- End Header Navigation -->
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-			
+
             <div class="collapse navbar-collapse" id="navbar-menu">
-                <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">             
+                <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
 				  <li  ><a class="uppermenupro" href="#">Your client account</a></li>
-                   <li ><a class="uppermenupro" href="#">Webmail</a></li>                
+                   <li ><a class="uppermenupro" href="#">Webmail</a></li>
 					<li ><a class="uppermenupro" href="#">Support</a></li>
                       <li>  <a class="uppermenupro" href="#"><select class="selectpicker" data-width="fit">
     <option data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
   <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Español</option>
-</select></a>   </li>    
-                </ul>	
+</select></a>   </li>
+                </ul>
             </div><!-- /.navbar-collapse -->
-	
+
         </div>
     </nav>
-    
-    
+
+
     	<nav class="navbar navbar-default dark navbar-sticky no-background bootsnav">
-			    
+
 			<div class="custom-width">
-			    
+
 			<div class="collapse navbar-collapse" id="navbar-menu">
-                <ul class="nav navbar-nav " data-in="fadeIn" data-out="fadeOut" style="margin-left:0%">             
+                <ul class="nav navbar-nav " data-in="fadeIn" data-out="fadeOut" style="margin-left:0%">
 				  <li style="padding-right:95px; padding-left:95px;"><a href="#">Domain</a></li>
                   <li style="padding-right:95px; padding-left:95px;" class="dropdown megamenu-fw">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
@@ -77,7 +78,7 @@
                                                 <li><a href="shared-hosting">Shared Cloud Hosting</a></li>
                                                 <li><a href="semidedicated-hosting">Semi-Dedicated Hosting <span class="badge-link">Hot</span></a></li>
                                                 <li><a href="dedicated-hosting">Dedicated Hosting<span class="badge-link blinkme">Soon</span></a></li>
-                                                <li><a href="reseller-hosting">Reseller Hosting</a></li>                                          
+                                                <li><a href="reseller-hosting">Reseller Hosting</a></li>
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
@@ -89,8 +90,8 @@
 												<li><a href="woocommerce-hosting">Woocommerce Hosting</a></li>
 												<li><a href="magento-hosting">Magento Hosting</a></li>
                                                 <li><a href="prestashop-hosting">Prestashop Hosting</a></li>
-                                                <li><a href="joomla-hosting">Joomla Hosting</a></li>											
-                                                
+                                                <li><a href="joomla-hosting">Joomla Hosting</a></li>
+
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
@@ -104,20 +105,20 @@
                                                 <li><a href="#">Storage Server <span class="badge-link">Offer</span></a></li>
                                             </ul>
                                         </div>
-                                    </div> 
+                                    </div>
                                     <div class="col-menu col-md-3">
                                         <h6 style="color:#fff" class="title"><i class="fa fa-rocket"></i>Security</h6>
                                         <div class="content">
                                             <ul class="menu-col">
-                                                <li><a href="#">Virtual Private Network</a></li>         
-												<li><a href="#">SSL Certificate</a></li> 												
+                                                <li><a href="#">Virtual Private Network</a></li>
+												<li><a href="#">SSL Certificate</a></li>
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
                                 </div><!-- end row -->
                             </li>
                         </ul>
-                    </li>                 
+                    </li>
 					 <li style="padding-right:95px; padding-left:95px;" class="dropdown megamenu-fw">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Solutions</a>
                         <ul class="dropdown-menu megamenu-content" role="menu">
@@ -125,19 +126,19 @@
                                         <h6 style="color:#fff" class="title"><i class="fa fa-rocket"></i>Hosting Solutions</h6>
                                         <div class="content">
                                             <ul class="menu-col">
-                                                <li><a href="#">Web Designer Hosting</a></li>         
-												<li><a href="#">E-Commerce Hosting</a></li> 
-												<li><a href="#">Reseller Hosting</a></li> 
-												<li><a href="#">Migrations</a></li>												
+                                                <li><a href="#">Web Designer Hosting</a></li>
+												<li><a href="#">E-Commerce Hosting</a></li>
+												<li><a href="#">Reseller Hosting</a></li>
+												<li><a href="#">Migrations</a></li>
                                             </ul>
                                         </div>
                                     </div>
 						</ul>
 						</li>
-                      <li style="padding-right:95px; padding-left:95px;">  <a href="#">Affiliate</a>   </li>                               
-                </ul>	
+                      <li style="padding-right:95px; padding-left:95px;">  <a href="#">Affiliate</a>   </li>
+                </ul>
             </div>
-            
+
             </div>
             </nav>
     <!-- Navbar Content ends here -->

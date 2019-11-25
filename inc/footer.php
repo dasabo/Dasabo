@@ -17,11 +17,14 @@
     <!-- Call to action ends here -->
 
     <!-- Dark Footer -->
+
     <footer class="light-footer dark-footer" style="text-align: center;">
         <div class="custom-width">
           <div class="row" style="padding-bottom:50px;">
-            <div class="col-sm-4">
-              f t i
+            <div class="col-sm-4" style="margin-top:10px;">
+              <img src="https://www.trzcacak.rs/myfile/full/22-220466_twitter-icon-white-png-facebook-white-icon-pdf.png" height="20"></img>
+              <img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/twitter-icon-18-256.png" height="20"></img>
+              <img src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG.png" height="20"></img>
             </div>
 
             <div class="col-sm-4">
@@ -29,27 +32,37 @@
             </div>
 
             <div class="col-sm-4">
+              <img src="https://www.appfolio.com/images/stars-5.png" class="logo" alt="" height="20">
+              <p style="color:#fff; font-size:14px; margin-top:5px;">Check our 274 reviews</p>
             </div>
           </div>
 
+<style>
+.linkfooterpro {
+  color:#b8b8b8;
+}
 
+.linkfooterpro:hover {
+  color:#fff;
+}
+</style>
             <div class="row">
                 <div class="col-sm-3">
                     <h4>Hosting Services</h4>
                     <ul>
-                      <li><a href="./shared-hosting.php">Shared Hosting</a></li>
-                      <li><a href="./cloud-hosting.php">Cloud Hosting</a></li>
-                        <li><a href="#">Dedicated Hosting</a></li>
-                        <li><a href="./reseller-hosting.php">Reseller</a></li>
+                      <li><a class="linkfooterpro" href="./shared-hosting.php">Shared Hosting</a></li>
+                      <li><a class="linkfooterpro" href="./cloud-hosting.php">Cloud Hosting</a></li>
+                        <li><a class="linkfooterpro" href="#">Dedicated Hosting</a></li>
+                        <li><a class="linkfooterpro" href="./reseller-hosting.php">Reseller</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3">
                   <h4>CMS Hosting</h4>
                   <ul>
-                    <li><a href="./wordpress-hosting.php">Wordpress Hosting</a></li>
-					  <li><a href="./prestashop-hosting.php">Prestashop Hosting</a></li>
-					  <li><a href="./joomla-hosting.php">Joomla Hosting</a></li>
-					  <li><a href="./drupal-hosting.php">Drupal Hosting</a></li>
+                    <li><a class="linkfooterpro" href="./wordpress-hosting.php">Wordpress Hosting</a></li>
+					  <li><a  class="linkfooterpro" href="./prestashop-hosting.php">Prestashop Hosting</a></li>
+					  <li><a class="linkfooterpro" href="./joomla-hosting.php">Joomla Hosting</a></li>
+					  <li><a class="linkfooterpro" href="./drupal-hosting.php">Drupal Hosting</a></li>
 
 
                     </ul>
@@ -57,17 +70,17 @@
                 <div class="col-sm-3">
                   <h4>Server</h4>
                   <ul>
-                    <li><a href="#">Virtual Private Server</a></li>
-                        <li><a href="#">Dedicated Server</a></li>
-                        <li><a href="#">Game Server</a></li>
-                        <li><a href="#">Storage Server</a></li>
+                    <li><a class="linkfooterpro" href="#">Virtual Private Server</a></li>
+                        <li><a class="linkfooterpro" href="#">Dedicated Server</a></li>
+                        <li><a class="linkfooterpro" href="#">Game Server</a></li>
+                        <li><a class="linkfooterpro" href="#">Storage Server</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3">
                   <h4>Cloud</h4>
                   <ul>
-                    <li><a href="#">VPS Cloud</a></li>
-                        <li><a href="#">Cloud Hosting</a></li>
+                    <li><a class="linkfooterpro" href="#">VPS Cloud</a></li>
+                        <li><a class="linkfooterpro" href="#">Cloud Hosting</a></li>
                   </ul>
                 </div>
 
@@ -91,6 +104,7 @@
     </div>
 
     <!-- JAVASCRIPT FILES -->
+
     <script src="./js/jquery.js"></script>
     <!-- contact form -->
     <script src="./js/validator.js"></script>
