@@ -431,41 +431,41 @@
             </div>
         </div>
     </section>
-	
+
   <section class="content-mblue  content-triple-blocks  center" id="performance">
 			<h1 class="grid  padding-top">Why thousands trust Dasabo's Hosting</h1>
-	
+
 			<div class="content-triple-item">
 			<h2>Performance</h2>
-			
+
 															<div class="svg-anim" id="security-anim">
 	<img src="images/svg/performance.svg"></img>
-	
+
 </div>
-		
-					
+
+
 			<div class="text-left"><ul><li>High Performance Web Server</li><li>Latest Generation Hardware
  </li><li>SSD Flash Storage</li><li>HTTP/2 and QUIC Enabled</li><li>100Gbps Network <strong><br></strong></li></ul></div>
 		</div>
 			<div class="content-triple-item">
 			<h2>Security</h2>
-			
+
 													<div class="svg-anim" id="security-anim">
 	<img src="images/svg/firewall.svg"></img>
-	
-</div>						
+
+</div>
 			<div class="text-left"><ul><li>PCI-DSS Scan Compliant</li><li>Free SSL Certificates</li><li>Private Account Environment </li><li>Web Application Firewall (WAF)</li><li>1500Gbps DDOS Protection<strong><br></strong></li></ul></div>
 		</div>
 			<div class="content-triple-item">
 			<h2>Reliability</h2>
-			
+
 																									<div class="svg-anim" id="security-anim">
 	<img src="images/svg/shield.svg"></img>
-	
-</div>					
+
+</div>
 			<div class="text-left"><ul><li>100% Uptime Guarantee
  </li><li>24/7 UK Based Helpdesk</li><li>Self-Healing Intelligent Cloud</li><li>Backups Included As Standard</li><li>Data Replicated Hourly Off-site<strong><br></strong></li></ul></div>
-		</div> 
+		</div>
 	</section>
         <!-- INCLUSIONE FOOTER -->
         <?php include 'inc/footer.php'; ?>
