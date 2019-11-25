@@ -122,7 +122,7 @@
         <!-- FINE FEATURES -->
         <section class="content-pad  content-dblue" id="order">
             <div class="grid-wide">
-                <h1 class="center  margin-double-mq">Order now and let us do the rest</h1>
+                <h1 class="center  margin-double-mq">Order now and get instant activation</h1>
 
                 <div class="pricing  pricing-triple">
                     <div class="pricing-item-3  content  content-light">
@@ -137,16 +137,16 @@
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Your own private, fully managed, dedicated cloud server with easy-to-use control panel.</p>
+                        <p class="pricing-desc">Get more performance for your project through this plan.</p>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
                             <li>100GB SSD Storage</li>
                             <li>8GB RAM</li>
-                            <li>4000GB Data Transfer</li>
+                            <li>Unlimited Data Transfer</li>
                             <li>Hourly Off Site Backups</li>
                             <li>Fully Managed &amp; Updated</li>
                             <li>Free Dedicated IP Address</li>
-                            <li>Only £1+VAT till 1st Jan 2020! </li>
+                            <li>Cloudlinux & LiteSpeed as Standard </li>
                         </ul>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
@@ -164,21 +164,21 @@
                                 <h6 class="margin-quarter  planSubtitle-margin">Dedicated Cloud</h6> </div>
 
                             <div class="pricing-price">
-                                <div class="text-giga  margin-none">£219</div>
+                                <div class="text-giga  margin-none">€219</div>
                                 <h7 class="pricing-period">/Month</h7>
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Secure, powerful and easy-to-use - our most popular server for demanding web applications</p>
+                        <p class="pricing-desc">Optimal for small and medium-sized sites.</p>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
                             <li>200GB SSD Storage</li>
                             <li>16GB RAM</li>
-                            <li>8000GB Data Transfer</li>
+                            <li>Unlimited Data Transfer</li>
                             <li>Hourly Off Site Backups</li>
                             <li>Fully Managed &amp; Updated</li>
                             <li>Free Dedicated IP Address</li>
-                            <li>Only £1+VAT till 1st Jan 2020! </li>
+                            <li>Cloudlinux & LiteSpeed as Standard </li>
                         </ul>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
@@ -201,16 +201,16 @@
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Exceptional levels of performance and huge resources to match, for the ultimate experience in dedicated cloud hosting</p>
+                        <p class="pricing-desc">Optimal for large sites and with a large influx of users.</p>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
-                            <li>400GB SSD Storage</li>
-                            <li>24GB RAM</li>
-                            <li>16000GB Data Transfer</li>
+                            <li>300GB SSD Storage</li>
+                            <li>26GB RAM</li>
+                            <li>Unlimited Data Transfer</li>
                             <li>Hourly Off Site Backups</li>
                             <li>Fully Managed &amp; Updated</li>
                             <li>Free Dedicated IP Address</li>
-                            <li>Only £1+VAT till 1st Jan 2020! </li>
+                            <li>Cloudlinux & LiteSpeed as Standard </li>
                         </ul>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick  bullets-pro">
@@ -379,7 +379,7 @@
         <!-- Faq -->
         <section class="content  content-pad  content-dblue" id="specs">
             <div class="grid">
-                <h1 class="margin-double-mq">Technical specifications of our Semi-Dedicated Hosting</h1>
+                <h1 class="margin-double-mq">Technical specifications of our Dedicated Hosting</h1>
 
                 <div class="full">
                     <div class="triple-item  bullets-small-tick">
@@ -496,187 +496,6 @@
                     </div>
 
                 </div>
-            </div>
-        </section>
-        <section class="content content-pad animateme content-lblue active">
-            <div class="grid">
-                <h1 class="center  margin-double-mq">Shared Hosting vs Semi-Dedicated</h1>
-
-                <table class="table-grey  rtable">
-                    <thead>
-                        <tr>
-                            <th></th>
-
-                            <th class="bg-dblue  pricing-header">
-                                <h2 class="margin-none">Shared Hosting</h2>
-                                <th class="pro-pricing  pricing-header">
-                                    <h2 class="margin-none"><p class="margin-none">Semi-Dedicated </h2>
-
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="table-row-major-both">
-                                <p>Disk Space</p>
-                            </td>
-                            <td class="table-row-major-both  content-pro">
-                                <p>30GB</p>
-                            </td>
-                            <td class="table-row-major-both  content-pro">
-                                <p>60GB</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-major-both">
-                                <p>Number of domains</p>
-                            </td>
-                            <td class="table-row-major-both  content-pro">
-                                <p>Unlimited</p>
-                            </td>
-                            <td class="table-row-major-both  content-pro">
-                                <p>Unlimited</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-major-star">
-                                <p>Bandwidth</p>
-                            </td>
-                            <td class="table-row-major-star">
-                                <p>Unlimited</p>
-                            </td>
-                            <td class="table-row-major-star  content-pro">
-                                <p>Unlimited</p>
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
-                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
-                                </svg>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-major-star">
-                                <p>CPU</p>
-                            </td>
-                            <td class="table-row-major-star">
-                                <p>Single</p>
-                            </td>
-                            <td class="table-row-major-star  content-pro">
-                                <p>Multiple</p>
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
-                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
-                                </svg>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-major-star">
-                                <p>Memory</p>
-                            </td>
-                            <td class="table-row-major-star">
-                                <p>x1</p>
-                            </td>
-                            <td class="table-row-major-star  content-pro">
-                                <p>x4</p>
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
-                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
-                                </svg>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-major-star">
-                                <p>Off-site Backups</p>
-                            </td>
-                            <td class="table-row-major-star">
-                                <p>Every 12 hours</p>
-                            </td>
-                            <td class="table-row-major-star  content-pro">
-                                <p>Every single hour</p>
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
-                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
-                                </svg>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-major-star">
-                                <p>Semi-Dedicated</p>
-                            </td>
-                            <td class="table-row-major-star">
-                                <p>No</p>
-                            </td>
-                            <td class="table-row-major-star  content-pro">
-                                <p>Yes</p>
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 11.5">
-                                    <path d="M5 0a1 1 0 0 0-1 1c0 1.66-.29 4-3 4a1 1 0 0 0 0 2c2.67 0 3 1.84 3 3.5a1 1 0 0 0 2 0c0-1.66.54-3.5 3-3.5a1 1 0 0 0 0-2c-2.88 0-3-2.34-3-4a1 1 0 0 0-1-1z" fill="#f5c34c"></path>
-                                </svg>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-minor">
-                                <p>cPanel/WHM</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-minor">
-                                <p>CloudLInux</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                        </tr>
-
-                        <tr>
-                            <td class="table-row-minor">
-                                <p>Free SSL Certificates</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-minor">
-                                <p>SpamFiltering (In Bound/out Bound)</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-minor">
-                                <p>LiteSpeed Web Server Powered</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="table-row-minor">
-                                <p>Dedicated IP Address</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>No (Extra €2/month)</p>
-                            </td>
-                            <td class="table-row-minor">
-                                <p>Yes (Extra €2/month)</p>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-
             </div>
         </section>
         <section class="content  content-pad  content-medblue" id="faqs">
