@@ -27,11 +27,11 @@
               <img src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG.png" height="20"></img>
             </div>
 
-            <div class="col-sm-4">
+            <div class="col-sm-4" style="text-align:center">
               <img src="./images/logo/white.svg" class="logo" alt="" height="40">
             </div>
 
-            <div class="col-sm-4">
+            <div class="col-sm-4" style="text-align:right">
               <img src="https://www.appfolio.com/images/stars-5.png" class="logo" alt="" height="20">
               <p style="color:#fff; font-size:14px; margin-top:5px;">Check our 274 reviews</p>
             </div>
