@@ -29,200 +29,200 @@
 <!-- FINE INCLUSIONE HEADER -->
 <body>
     <!-- Default Page Header -->
-    <div class="default-header shared-page">
-        <div class="custom-width">
-            <div class="row">
-                <div class="col-sm-7">
-                    <div class="header-text">
-                        <h2>Powerfull Reseller Hosting</h2>
-                        <p>Enjoy white label reseller hosting powered by cPanel.<br> Provide the best hosting solution for your clients.</p>
-                        <h4>Starting at <span>€9.90/monthly</span></h4>
-                        <h3>€3.90/monthly</h3>
-                    </div>
-                    <div class="buttons">
-                        <a href="#prezzi" class="btn btn-green btn-large">Choose Plan</a>
-                    </div>
+   <header class="masthead  content  content-blue-gradient">
+            <div class="grid">
+                <div class="masthead-content  content-pad">
+                    <h1 class=""><p>Reseller Cloud Hosting</p></h1>
+
+                    <p>Our shared hosting is the best solution for customers who require maximum performance and excellent support.</p>
+                    <p>Satisfied or refunded policy. </p>
+
                 </div>
+
+                <aside class="masthead-aside">
+                    <div class="svg-anim active" id="uptime-anim">
+                        <svg class="uptime-anim" data-name="uptime anim" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.63 146.83" style="visibility: visible;">
+                        
+                            <img src="images/svg/reseller.svg"></img>
+
+                        </svg>
+                    </div>
+
+                </aside>
             </div>
-        </div>
-    </div>
+        </header>
+		<nav id="contentNav" class="nav-internal  content-dblue">
+            <ul class="grid">
+
+                <li><a href="#features" id="features-anchor">Features</a></li>
+                <li><a href="#performance" id="performance-anchor">Performance</a></li>
+                <li><a href="#specs" id="specs-anchor">Full Specs</a></li>
+                <li><a href="#faqs" id="faqs-anchor">FAQs</a></li>
+                <li class="btn-feature"><a href="#order" id="order-anchor" class="btn  btn-primary  btn-narrow">Order</a></li>
+            </ul>
+        </nav>
     <!-- Default Page Header ends here -->
 
     <!-- Pricing Tables -->
 	
-  <div class="pricing-tables white-bg padding-top50 padding-bottom50">
-        <div class="custom-width">
-            <div class="row">
-                <div class="main-title text-center">
-                    <h2>Reseller Hosting</h2>
-                    <p>High-Performance Cloud Reseller Hosting built for designers and agencies. Maintain your client’s websites with WHM control panel without worrying about server management or technical support. </p>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="price">19.99$/month</div>
-                    <div class="table mobile-margin-bottom">                    
-                        <div class="table-content">
-                            <h4>Wordpress Server</h4>                           
-                            <div class="table-list">
-                                <ul>
-                                    <li><i data-aos="zoom-in" class="fa fa-plus aos-init aos-animate"></i> Fully Customized Servers</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus aos-init aos-animate"></i> Multi Core
-                                        and Turbo Speed</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus aos-init aos-animate"></i> Unlimited
-                                        SDD Space </li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-times aos-init aos-animate"></i> Unlimited
-                                        MySQL Databases</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-times aos-init aos-animate"></i>Multi CPU
-                                        and Ultra Speed</li>
-                                </ul>
-                            </div>
-                            <div class="buttons">
-                                <a href="#" class="btn btn-white btn-medium"> Purchase Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="price green-bg mobile-margin-top">29.99$/month</div>
-                    <div class="table">
-                        <div class="table-content">
-                            <h4>Cloud Hosting</h4>
-                            <div class="table-list">
-                                <ul>
-                                    <li><i data-aos="zoom-in" class="fa fa-plus aos-init aos-animate"></i> Fully Customized Servers</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus aos-init aos-animate"></i> Multi Core
-                                        and Turbo Speed</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus aos-init aos-animate"></i> Unlimited
-                                        SDD Space</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-times aos-init aos-animate"></i> Unlimited
-                                        MySQL Databases</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-times aos-init aos-animate"></i>Multi CPU
-                                        and Ultra Speed</li>
-                                </ul>
-                            </div>
-                            <div class="buttons">
-                                <a href="#" class="btn btn-white btn-medium"> Purchase Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="price price-margin-top">59.99$/month</div>
-                    <div class="table">
-                        <div class="table-content">
-                            <h4>Dedicated Hosting</h4>
-                            <div class="table-list">
-                                <ul>
-                                    <li><i data-aos="zoom-in" class="fa fa-plus aos-init aos-animate"></i> Fully Customized Servers</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus aos-init aos-animate"></i> Multi Core
-                                        and Turbo Speed</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus aos-init aos-animate"></i> Unlimited
-                                        SDD Space</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-times aos-init aos-animate"></i> Unlimited
-                                        MySQL Databases</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-times aos-init aos-animate"></i>Multi CPU
-                                        and Ultra Speed</li>
-                                </ul>
-                            </div>
-                            <div class="buttons">
-                                <a href="#" class="btn btn-white btn-medium"> Purchase Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <div class="price price-margin-top">59.99$/month</div>
-                    <div class="table">
-                        <div class="table-content">
-                            <h4>Dedicated Hosting</h4>
-                            <div class="table-list">
-                                <ul>
-                                    <li><i data-aos="zoom-in" class="fa fa-plus aos-init aos-animate"></i> Fully Customized Servers</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus aos-init aos-animate"></i> Multi Core
-                                        and Turbo Speed</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus aos-init aos-animate"></i> Unlimited
-                                        SDD Space</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-times aos-init aos-animate"></i> Unlimited
-                                        MySQL Databases</li>
-                                    <li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-times aos-init aos-animate"></i>Multi CPU
-                                        and Ultra Speed</li>
-                                </ul>
-                            </div>
-                            <div class="buttons">
-                                <a href="#" class="btn btn-white btn-medium"> Purchase Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-	<div class="main-title text-center">
-	<p style="text-decoration:underline;"><a href="features/hosting-reseller.php">Compare plans and view all features.</a></p>
+  <section class="content  content-pad  whiteBG" id="features">
+	<div class="grid">
+					<h1 class="margin-double-mq">Cloud Reseller Hosting Features</h1>		
+		
+							
+		<div class="full">
+														
+			<div class="triple-item  item-icon-before  item-icon-medium">
+																	<svg class="icon icon-icon-settings">
+	<use xlink:href="/assets/svg/processed/guru-sprite.svg#icon-settings"></use>
+</svg>												<h3 class="margin-none">Create secure, separate end-user accounts</h3>
+				<p>Industry leading hosting control panel powered hosting
+				
+								</p>
+			</div>
+														
+			<div class="triple-item  item-icon-before  item-icon-medium">
+																	<svg class="icon icon-icon-piggybank">
+	<use xlink:href="/assets/svg/processed/guru-sprite.svg#icon-piggybank"></use>
+</svg>												<h3 class="margin-none">Fixed, Lower Costs</h3>
+				<p>Reduce costs by pooling your less demanding accounts from elsewhere, all together.
+				
+								</p>
+			</div>
+														
+			<div class="triple-item  item-icon-before  item-icon-medium">
+																	<svg class="icon icon-icon-support">
+	<use xlink:href="/assets/svg/processed/guru-sprite.svg#icon-support"></use>
+</svg>												<h3 class="margin-none">24/7 UK Based Support team</h3>
+				<p>Our Hertfordshire based team are here for you 24/7 should any issue arise.
+				
+								</p>
+			</div>
+														
+			<div class="triple-item  item-icon-before  item-icon-medium">
+																	<svg class="icon icon-icon-security">
+	<use xlink:href="/assets/svg/processed/guru-sprite.svg#icon-security"></use>
+</svg>												<h3 class="margin-none">Account Protection</h3>
+				<p>Every account is individually isolated, protecting your files even in a shared environment.
+				
+								</p>
+			</div>
+														
+			<div class="triple-item  item-icon-before  item-icon-medium">
+																	<svg class="icon icon-icon-backups">
+	<use xlink:href="/assets/svg/processed/guru-sprite.svg#icon-backups"></use>
+</svg>												<h3 class="margin-none">Regular Off-site Backups</h3>
+				<p>We know how important your data is and back it up every four hours to a secure off-site location.
+				
+								</p>
+			</div>
+														
+			<div class="triple-item  item-icon-before  item-icon-medium">
+																	<svg class="icon icon-icon-secure">
+	<use xlink:href="/assets/svg/processed/guru-sprite.svg#icon-secure"></use>
+</svg>												<h3 class="margin-none">Free SSL Certificates, HTTP/2 &amp; QUIC</h3>
+				<p>Every site you host will have a free fully trusted 256-bit SSL Certificate as standard, enabling HTTP/2 &amp; QUIC for your site.
+				
+								</p>
+			</div>
+						
+		</div>
 	</div>
+</section>
     <!-- Pricing Tables content ends here -->
-<div class="dual-section padding-top50 padding-bottom50">
-        <div class="custom-width">
-            <div class="row">
-                <div class="main-title title-white text-center">
-                    <h2>All Plans Include</h2>                 
-                </div>
-                <div class="col-sm-6">
-                    <div class="left-content">
-                        <div class="features">
-                            <i class="fa fa-globe pull-left aos-init aos-animate" data-aos="zoom-in"></i>
-                            <div class="text">
-                                <h4>Domain</h4>
-                                <p>Our domain manager makes it easy to track, update, transfer, purchase, and administer all of your domains in one place.</p>
-                            </div>
+	<section class="content content-pad content-dblue" id="order">
+            <div class="grid-wide">
+                <h1 class="center  margin-double-mq">Order now and get instant activation</h1>
+
+                <div class="clear">
+                    <div class="item-triple">
+                        <div class="text-kilo  list-h2  bullets-large-tick-filter">
+                            <h2>All our plans include</h2>
+                            <ul>
+                                <li>100GB SSD NVMe Storage
+                                </li>
+                                <li>Unlimited Bandwidth
+                                </li>
+                            </ul>
                         </div>
-                        <div class="features">
-                            <i class="fas fa-shield-alt pull-left aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100"></i>
-                            <div class="text">
-                                <h4>Resource Protection</h4>
-                                <p>Our technology identifies websites using excessive resources and temporarily re-assigns them to isolated systems.</p>
-                            </div>
-                        </div>
-                        <div class="features">
-                            <i class="fa fa-hdd pull-left aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200"></i>
-                            <div class="text">
-                                <h4>Scalability</h4>
-                                <p>Start with what you need and move to more powerful options as your website grows. Our custom technology lets you upgrade in just a few clicks.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="right-content">
-                        <div class="features">
-                            <i class="fab fa-expeditedssl pull-left aos-init aos-animate" data-aos="zoom-in"></i>
-                            <div class="text">
-                                <h4>SSL Certificate</h4>
-                                <p>Powered by Let's Encrypt, each SSL Certificate provided helps secure the connection between websites and your visitors.</p>
-                                <p></p>
-                            </div>
-                        </div>
-                        <div class="features">
-                            <i class="fa fa-rocket pull-left aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100"></i>
-                            <div class="text">
-                                <h4>Advanced Capabilities</h4>
-                                <p>Use advanced capabilities like Secure Shell (SSH) access, server-side includes, log file access and web-based managers for files, databases and email.</p>
-                                <p></p>
-                            </div>
-                        </div>
-                        <div class="features">
-                            <i class="fa fa-envelope pull-left aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200"></i>
-                            <div class="text">
-                                <h4>Unlimited Free Premium Support</h4>
-                                <p>Our support team will always be available 365 days a year to guarantee the best use of our services.</p>
-                                <p></p>
-                            </div>
+
+                        <div class="bullets-large-tick-filter">
+                            <ul>
+                                <li>White Label Services
+                                </li>
+                                <li>Dedicated IPv4
+                                </li>
+                                <li>WHM & cPanel as Standard</li>
+                                <li>CloudLinux & Litespeed
+                                </li>
+                                <li>24x7 Free Support
+                                </li>
+                                <li>Host Unlimited Domain</li>
+                                <li>Unlimited User Account</li>
+                                <li>API Access
+                                </li>
+                            </ul>
                         </div>
                     </div>
+
+                    <div class="pricing-item-triple  content-light ">
+                        <header class="pricing-header">
+                            <div class="pricing-title">
+                                <h2 class="margin-none">Reseller</h2>
+                                <h6 class="margin-quarter  planSubtitle-margin">Reseller Hosting</h6> </div>
+
+                            <div class="pricing-price">
+                                <h7>From</h7>
+                                <div class="text-giga  margin-none">€24.99</div>
+                                <h7 class="pricing-period">/Month</h7>
+                            </div>
+                        </header>
+
+                        <p class="pricing-desc">Hosting at its best; secure, low contention and high performance.</p>
+
+                        <ul class="pricing-desc  pricing-list  bullets-small-tick">
+                            <li>Hourly Backups as standard</li>
+                            <li>Dedicated IP Address</li>
+                            <li>White Label Panel</li>
+							<li>Free WebSite Migration</li>
+
+                        </ul>
+
+                        <a href="https://my.DASABO.co.uk/cart.php?gid=2&amp;promocode=XMAS" class="btn  btn-hollow  btn-full">Order Now</a>
+                    </div>
+                    <div class="pricing-item-triple  content-light ">
+                        <header class="pricing-header">
+                            <div class="pricing-title">
+                                <h2 class="margin-none">Reseller <abbr class="badge-pro badge-pro-reverse">Pro</abbr></h2>
+                                <h6 class="margin-quarter  planSubtitle-margin">Reseller Hosting</h6> </div>
+
+                            <div class="pricing-price">
+                                <h7>From</h7>
+                                <div class="text-giga  margin-none">€49.99</div>
+                                <h7 class="pricing-period">/Month</h7>
+                            </div>
+                        </header>
+
+                        <p class="pricing-desc">Delivers an extra performance boost over our regular Shared Hosting, adding:</p>
+
+                        <ul class="pricing-desc  pricing-list  bullets-small-tick">
+                            <li>Hourly Backups as standard</li>
+                            <li>Dedicated IP Address</li>
+                            <li>White Label Panel</li>
+							<li>Free WebSite Migration</li>
+							<li>4x Resources vs Standard Reseller</li>
+
+                        </ul>
+
+                        <a href="https://my.DASABO.co.uk/cart.php?gid=2&amp;promocode=XMAS" class="btn  btn-hollow  btn-full">Order Now</a>
+                    </div>
+                </div>
+
+                <div class="center  content-split-2third  additional-content-icon">             
+                    <p>Need more? We have ready-to-roll bigger plans.<a href="javascript:void(Tawk_API.toggle())"><strong> Just get in touch!</strong></a></p>
                 </div>
             </div>
-        </div>
-    </div>
-	
+        </section>
     <!-- Layout - Text right  -->
     <div class="layout-text right-layout gray-layout padding-bottom50 padding-top50">
         <div class="container">
