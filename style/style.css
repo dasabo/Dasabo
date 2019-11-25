@@ -1,5 +1,5 @@
 /* ----------
- CSS TABLE OF CONTENT 
+ CSS TABLE OF CONTENT
  -----------
 
 ----------------------------------
@@ -17,7 +17,7 @@
 
     *Background Colors
     Green: #f67a3c;
-    Blue: #4270e4; 
+    Blue: #4270e4;
 
     Font Colors:
     p: #9aa6ca
@@ -48,7 +48,7 @@ NAVBAR CUSTOMIZATION
     MEGAMENU
     Sidebar left
     Sidebar right
-    
+
 **************
 PAGE HEADERS
 **************
@@ -109,7 +109,7 @@ Footer
     Under Footer
     Under footer two
 
-================ 
+================
 TABLE OF CONTENT ENDS HERE:
  =================*/
 
@@ -197,7 +197,7 @@ h6 {
 p,
 li,
 a {
-     
+
     transition: .2s linear;
     font-family: 'Overpass';
     margin-bottom: 0;
@@ -213,7 +213,7 @@ ul {
 
 li {
     list-style: none;
-	
+
 }
 
 .down-arrow2 {
@@ -687,9 +687,9 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
 }
 
 navmenulower {
-	
+
 	padding-right:90px;
-	
+
 }
 
 nav.navbar.bootsnav .title {
@@ -884,7 +884,7 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu>li>a:hover {
 .nav-tabs>li.active>a:focus,
 .nav-tabs>li.active>a:hover {
     border: 0;
-    border-radius: 10px;    
+    border-radius: 10px;
     color: #a086c0;
     background: #ffffff;
 }
@@ -2209,7 +2209,7 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu>li>a:hover {
     background: linear-gradient(135deg, rgba(56, 48, 109, 0.97
     ) 0%, rgba(56, 48, 109, 0.8
     )100%), url(../images/other/datacenter.png) center;
-    background-attachment: fixed;   
+    background-attachment: fixed;
 }
 .ff-five2 .buttons .btn {
     border-color: rgba(255, 255, 255, 0.5);
@@ -3054,7 +3054,7 @@ margin-right: 10px;
 .team .members h5 {
     font-size: 13px;
     color: #aeb8d8;
-    margin-bottom: 15px;    
+    margin-bottom: 15px;
 }
 
 .team .social-links {
@@ -3713,7 +3713,7 @@ body,
     body,
     .text-base {
       font-size: calc(1rem + 10%);
-      line-height: 1; } }
+      line-height: 1.4; } }
 
 h5,
 .text-deci {
@@ -3964,9 +3964,9 @@ button {
 input[type="submit"],
 button {
 	transition: $quick-time color ease-out;
-	
+
 	color: $white;
-	
+
 	&:hover,
 	&:focus {
 		color: $link-color-hover;
@@ -4907,11 +4907,11 @@ http://www.tipue.com/tipr
 
 
 @media screen and (min-width: 56.25em) {
- 
 
-/* ---------------- 
 
-support for no js 
+/* ----------------
+
+support for no js
 
 ---------------- */
 .no-js .nav-primary {
@@ -5468,27 +5468,27 @@ a.link-subtle {
 /*
 .triple-item {
 	@include responsive-text-size("deci");
-	
+
 	.content & {
 		margin-bottom: $bsu;
 	}
-	
+
 	@include mq(break2) {
 		margin-right: gutter(4);
 		flex: span(5.5) 0;
-		
+
 		&:nth-child(2n+2) {
 			@include last;
 		}
 	}
-	
+
 	@include mq(break3) {
 		flex: span(3.5) 0;
-		
+
 		&:nth-child(2n+2) {
 			margin-right: gutter(4);
 		}
-		
+
 		&:nth-child(3n+3) {
 			@include last;
 		}
@@ -6881,7 +6881,7 @@ td {
 /*
 .accordion-title {
 	padding-left: $hsu;
-		
+
 		@include mq(break2) {
 			padding-left: $bsu;
 		}
@@ -7085,4 +7085,3 @@ td {
     -ms-filter: grayscale(100%);
     -o-filter: grayscale(100%);
     filter: grayscale(100%); } }
-
