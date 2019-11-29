@@ -59,68 +59,7 @@
     </nav>
 
 
-    <style>
-/*the container must be positioned relative:*/
-.custom-select {
-  position: relative;
-  font-family: Arial;
-}
 
-.custom-select select {
-  display: none; /*hide original SELECT element:*/
-}
-
-.select-selected {
-  background-color: DodgerBlue;
-}
-
-/*style the arrow inside the select element:*/
-.select-selected:after {
-  position: absolute;
-  content: "";
-  top: 14px;
-  right: 10px;
-  width: 0;
-  height: 0;
-  border: 6px solid transparent;
-  border-color: #fff transparent transparent transparent;
-}
-
-/*point the arrow upwards when the select box is open (active):*/
-.select-selected.select-arrow-active:after {
-  border-color: transparent transparent #fff transparent;
-  top: 7px;
-}
-
-/*style the items (options), including the selected item:*/
-.select-items div,.select-selected {
-  color: #ffffff;
-  padding: 8px 16px;
-  border: 1px solid transparent;
-  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
-  cursor: pointer;
-  user-select: none;
-}
-
-/*style items (options):*/
-.select-items {
-  position: absolute;
-  background-color: DodgerBlue;
-  top: 100%;
-  left: 0;
-  right: 0;
-  z-index: 99;
-}
-
-/*hide the items when the select box is closed:*/
-.select-hide {
-  display: none;
-}
-
-.select-items div:hover, .same-as-selected {
-  background-color: rgba(0, 0, 0, 0.1);
-}
-</style>
 
 
     	<nav class="navbar navbar-default dark navbar-sticky no-background bootsnav">
@@ -135,7 +74,7 @@
                         <ul class="dropdown-menu megamenu-content" role="menu">
                             <li>
                                 <div class="row">
-                                     <div class="col-menu col-md-6">
+                                     <div class="col-menu col-md-3">
                                         <h6 style="color:#fff" class="title"><i class="fas fa-cloud-download-alt"></i>Hosting Services</h6>
                                         <div class="content">
                                             <ul class="menu-col">
@@ -146,7 +85,7 @@
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
-                                   <div class="col-menu col-md-6">
+                                   <div class="col-menu col-md-3">
                                         <h6 style="color:#fff"class="title"><i class="fas fa-cloud-download-alt"></i>Application</h6>
                                         <div class="content">
                                             <ul class="menu-col">
@@ -158,8 +97,8 @@
 
                                             </ul>
                                         </div>
-                                  </div>
-                     <!--               <div class="col-menu col-md-3">
+                                    </div><!-- end col-3 -->
+                                    <div class="col-menu col-md-3">
                                         <h6 style="color:#fff" class="title"><i class="fas fa-tachometer-alt"></i>Server</h6>
                                         <div class="content">
                                             <ul class="menu-col">
@@ -169,7 +108,7 @@
                                                 <li><a href="#">Storage Server <span class="badge-link">Offer</span></a></li>
                                             </ul>
                                         </div>
-                                    </div> 
+                                    </div>
                                     <div class="col-menu col-md-3">
                                         <h6 style="color:#fff" class="title"><i class="fa fa-rocket"></i>Security</h6>
                                         <div class="content">
@@ -178,11 +117,11 @@
 												<li><a href="#">SSL Certificate</a></li>
                                             </ul>
                                         </div>
-                                    </div> -->
-                                </div>
+                                    </div><!-- end col-3 -->
+                                </div><!-- end row -->
                             </li>
                         </ul>
-                    </li> 
+                    </li>
 					 <li style="padding-right:95px; padding-left:95px;" class="dropdown megamenu-fw">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Solutions</a>
                         <ul class="dropdown-menu megamenu-content" role="menu">
@@ -198,7 +137,7 @@
                                         </div>
                                     </div>
 						</ul>
-						</li> 
+						</li>
                       <li style="padding-right:95px; padding-left:95px;">  <a href="#">Affiliate</a>   </li>
                 </ul>
             </div>
