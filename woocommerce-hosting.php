@@ -11,7 +11,7 @@
     <meta name="keywords" content="vps,dedicated,cloud,hosting,hosting template,whmcs, hosting whmcs,whmcs template">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
     <!-- Page title -->
-    <title>Managed Joomla Hosting</title>
+    <title>Managed woocommerce Hosting</title>
     <!-- CSS FILES -->
     <link rel="stylesheet" href="css/fontawesome-icons/css/all.min.css">
     <link rel="stylesheet" href="css/bootsnav.css">
@@ -33,9 +33,9 @@
         <header class="masthead  content  content-blue-gradient">
             <div class="grid">
                 <div class="masthead-content  content-pad">
-                    <h1 class=""><p>UltraFast Joomla Hosting</p></h1>
+                    <h1 class=""><p>UltraFast woocommerce Hosting</p></h1>
 
-                    <p>Guaranteed to make your Joomla site run quicker on our optimised stack, or your money back.</p>
+                    <p>Guaranteed to make your woocommerce site run quicker on our optimised stack, or your money back.</p>
 
                 </div>
 
@@ -43,7 +43,7 @@
                     <div class="svg-anim active" id="uptime-anim">
                         <svg class="uptime-anim" data-name="uptime anim" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.63 146.83" style="visibility: visible;">
 
-                            <img src="images/svg/joomla.svg"></img>
+                            <img src="images/svg/woocommerce.svg"></img>
 
                         </svg>
                     </div>
@@ -67,13 +67,13 @@
 
                 <header class="content-intro">
                     <figure class="content-split-icon">
-                        <img src="images/svg/joomla.svg" alt="Joomla Application Hosting">
+                        <img src="images/svg/woocommerce.svg" alt="woocommerce Application Hosting">
                     </figure>
 
                     <div class="content-split-copy">
-                        <h1>Ultimate UK Joomla Hosting, without the restrictions.</h1>
+                        <h1>Ultimate UK woocommerce Hosting, without the restrictions.</h1>
 
-                        <p>Our <strong>dasabo Shared</strong>, <strong>Reseller</strong> and <strong>Dedicated</strong> <strong>Joomla</strong> hosting is expertly optimised to deliver exceptional TTFB/TTLB (Time To First &amp; Last Byte) speeds. </p>
+                        <p>Our <strong>dasabo Shared</strong>, <strong>Reseller</strong> and <strong>Dedicated</strong> <strong>woocommerce</strong> hosting is expertly optimised to deliver exceptional TTFB/TTLB (Time To First &amp; Last Byte) speeds. </p>
                         <p>Leveraging unique in-server caching, your website doesn't even need to engage PHP to begin delivering content - requests are serviced immediately, with no delay.</p>
                     </div>
                 </header>
@@ -85,7 +85,7 @@
                             <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-uptime"></use>
                         </svg>
                         <h3 class="margin-none">Guaranteed Faster</h3>
-                        <p>We're so confident that our Joomla hosting is better than regular hosting, that we'll refund your money if it's not.
+                        <p>We're so confident that our woocommerce hosting is better than regular hosting, that we'll refund your money if it's not.
 
                         </p>
                     </div>
@@ -94,8 +94,8 @@
                         <svg class="icon icon-icon-secure">
                             <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-secure"></use>
                         </svg>
-                        <h3 class="margin-none">Joomla Friendly Security</h3>
-                        <p>Our Web Application Firewall protects your Joomla site without causing disruption.
+                        <h3 class="margin-none">woocommerce Friendly Security</h3>
+                        <p>Our Web Application Firewall protects your woocommerce site without causing disruption.
 
                         </p>
                     </div>
@@ -105,7 +105,7 @@
                             <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-enhancements"></use>
                         </svg>
                         <h3 class="margin-none">Easy Management</h3>
-                        <p>We provide a simple web-based auto-install, auto-upgrade and auto-clone of Joomla, as well as fully updated wp-cli access and git for easy version control.
+                        <p>We provide a simple web-based auto-install, auto-upgrade and auto-clone of woocommerce, as well as fully updated wp-cli access and git for easy version control.
 
                         </p>
                     </div>
@@ -124,8 +124,8 @@
                         <svg class="icon icon-icon-tick">
                             <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-tick"></use>
                         </svg>
-                        <h3 class="margin-none">Joomla Multisite Support</h3>
-                        <p>Our packages include full Joomla Multisite support as standard.
+                        <h3 class="margin-none">woocommerce Multisite Support</h3>
+                        <p>Our packages include full woocommerce Multisite support as standard.
 
                         </p>
                     </div>
@@ -135,7 +135,7 @@
                             <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-clouddb"></use>
                         </svg>
                         <h3 class="margin-none">UK SSD Cloud</h3>
-                        <p>All Joomla hosting can be dynamically distributed throughout our 100Gigabit cloud network, balancing demand and improving performance.
+                        <p>All woocommerce hosting can be dynamically distributed throughout our 100Gigabit cloud network, balancing demand and improving performance.
 
                         </p>
                     </div>
@@ -145,7 +145,7 @@
         </section>
         <section class="content  content-pad  content-dblue" id="order">
             <div class="grid-wide">
-                <h1 class="center  margin-double-mq">Activate your Joomla hosting in minutes.</h1>
+                <h1 class="center  margin-double-mq">Activate your woocommerce hosting in minutes.</h1>
 
                 <div class="clear">
                     <div class="item-triple">
@@ -165,7 +165,7 @@
                                 </li>
                                 <li>Unlimited Domains
                                 </li>
-                                <li>Accelerated for Joomla</li>
+                                <li>Accelerated for woocommerce</li>
                                 <li>100% Super Flash Storage
                                 </li>
                                 <li>Free Let's Encrypt Certificates
@@ -366,7 +366,7 @@
         </section>
         <section class="content-pad animateme content-lblue active" id="performance">
             <div class="grid">
-                <h1 class="margin-double-mq">Joomla Hosting Performance</h1>
+                <h1 class="margin-double-mq">woocommerce Hosting Performance</h1>
 
                 <div class="content-chart">
                     <p>DASABO's ​​hosting platform was built with speed and quality in mind.</p>
@@ -444,21 +444,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <img src="images/png-images/j-dash.png" class="img-responsive img-shadow aos-init aos-animate" alt="" data-aos="fade-right">
+                        <img src="images/png-images/wp-dash.png" class="img-responsive img-shadow aos-init aos-animate" alt="" data-aos="fade-right">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="text-container aos-init aos-animate" data-aos="fade-up">
-                            <h3>Automatic Joomla Install</h3>
+                            <h3>Automatic woocommerce Install</h3>
                             <div class="text-content">
                                 <i class="far fa-check-circle pull-left"></i>
                                 <div class="text">
-                                    <p>Through Joomla packages, your site will be installed automatically in a few moments.</p>
+                                    <p>Through woocommerce packages, your site will be installed automatically in a few moments.</p>
                                 </div>
                             </div>
                             <div class="text-content">
                                 <i class="far fa-check-circle pull-left"></i>
                                 <div class="text">
-                                    <p>Manage your Joomla site, through a simple and intuitive interface and save time to dedicate to your project!</p>
+                                    <p>Manage your woocommerce site, through a simple and intuitive interface and save time to dedicate to your project!</p>
                                 </div>
                             </div>
                             <div class="buttons">
@@ -471,7 +471,7 @@
         </div>
         <section class="content content-pad content-medblue" id="faqs">
             <div class="grid">
-                <h1 class="margin-double-mq">Joomla Hosting FAQs</h1>
+                <h1 class="margin-double-mq">woocommerce Hosting FAQs</h1>
 
                 <div class="content-faqs">
 
