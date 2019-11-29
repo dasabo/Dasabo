@@ -43,7 +43,7 @@
                     <div class="svg-anim active" id="uptime-anim">
                         <svg class="uptime-anim" data-name="uptime anim" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.63 146.83" style="visibility: visible;">
 
-                            <img src="images/svg/Magento.svg"></img>
+                            <img src="images/svg/magento.svg"></img>
 
                         </svg>
                     </div>
@@ -67,7 +67,7 @@
 
                 <header class="content-intro">
                     <figure class="content-split-icon">
-                        <img src="images/svg/Magento.svg" alt="Magento Application Hosting">
+                        <img src="images/svg/magento.svg" alt="Magento Application Hosting">
                     </figure>
 
                     <div class="content-split-copy">
