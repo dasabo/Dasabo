@@ -74,7 +74,7 @@
                         <ul class="dropdown-menu megamenu-content" role="menu">
                             <li>
                                 <div class="row">
-                                     <div class="col-menu col-md-3">
+                                     <div class="col-menu col-md-6">
                                         <h6 style="color:#fff" class="title"><i class="fas fa-cloud-download-alt"></i>Hosting Services</h6>
                                         <div class="content">
                                             <ul class="menu-col">
@@ -85,7 +85,7 @@
                                             </ul>
                                         </div>
                                     </div><!-- end col-3 -->
-                                   <div class="col-menu col-md-3">
+                                   <div class="col-menu col-md-6">
                                         <h6 style="color:#fff"class="title"><i class="fas fa-cloud-download-alt"></i>Application</h6>
                                         <div class="content">
                                             <ul class="menu-col">
@@ -97,8 +97,8 @@
 
                                             </ul>
                                         </div>
-                                    </div><!-- end col-3 -->
-                                    <div class="col-menu col-md-3">
+                                    </div>
+                              <!--    <div class="col-menu col-md-3">
                                         <h6 style="color:#fff" class="title"><i class="fas fa-tachometer-alt"></i>Server</h6>
                                         <div class="content">
                                             <ul class="menu-col">
@@ -117,7 +117,7 @@
 												<li><a href="#">SSL Certificate</a></li>
                                             </ul>
                                         </div>
-                                    </div><!-- end col-3 -->
+                                    </div>    -->
                                 </div><!-- end row -->
                             </li>
                         </ul>
