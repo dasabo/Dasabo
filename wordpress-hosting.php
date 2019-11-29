@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
     <!-- Meta tags -->
     <meta charset="utf-8">
@@ -24,24 +25,24 @@
     <!-- CSS FILES end -->
 </head>
 <!-- INCLUSIONE HEADER -->
-<?php include 'inc/header.php'; ?> 
-<!-- FINE INCLUSIONE HEADER -->
-<body>
-    <!-- Default Page Header -->
-    <header class="masthead  content  content-blue-gradient">
+<?php include 'inc/header.php'; ?>
+    <!-- FINE INCLUSIONE HEADER -->
+
+    <body>
+        <!-- Default Page Header -->
+        <header class="masthead  content  content-blue-gradient">
             <div class="grid">
                 <div class="masthead-content  content-pad">
                     <h1 class=""><p>UltraFast Wordpress Hosting</p></h1>
 
                     <p>Guaranteed to make your WordPress site run quicker on our optimised stack, or your money back.</p>
-                    
 
                 </div>
 
                 <aside class="masthead-aside">
                     <div class="svg-anim active" id="uptime-anim">
                         <svg class="uptime-anim" data-name="uptime anim" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.63 146.83" style="visibility: visible;">
-                        
+
                             <img src="images/svg/wordpress.svg"></img>
 
                         </svg>
@@ -50,7 +51,7 @@
                 </aside>
             </div>
         </header>
-		<nav id="contentNav" class="nav-internal  content-dblue">
+        <nav id="contentNav" class="nav-internal  content-dblue">
             <ul class="grid">
 
                 <li><a href="#features" id="features-anchor">Features</a></li>
@@ -60,85 +61,89 @@
                 <li class="btn-feature"><a href="#order" id="order-anchor" class="btn  btn-primary  btn-narrow">Order</a></li>
             </ul>
         </nav>
-    <!-- Default Page Header ends here -->
-<section class="content  content-pad  whiteBG" id="ultimate">
-	<div class="grid">
-				
-		<header class="content-intro">			
-																		<figure class="content-split-icon">
-				<img src="images/svg/wordpress.svg" alt="WordPress Application Hosting">
-			</figure>
-						
-			<div class="content-split-copy">
-				<h1>Ultimate UK WordPress Hosting, without the restrictions.</h1>
-				
-								
-				<p>Our <strong>dasabo Shared</strong>, <strong>Reseller</strong> and <strong>Dedicated</strong> <strong>WordPress</strong> hosting is expertly optimised to deliver exceptional TTFB/TTLB (Time To First &amp; Last Byte) speeds. </p>
-<p>Leveraging unique in-server caching, your website doesn't even need to engage PHP to begin delivering content - requests are serviced immediately, with no delay.</p>
-			</div>
-		</header>
-		
-				
-		<div class="full">
-														
-			<div class="triple-item  item-icon-before  item-icon-medium">
-																	<svg class="icon icon-icon-uptime">
-	<use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-uptime"></use>
-</svg>												<h3 class="margin-none">Guaranteed Faster</h3>
-				<p>We're so confident that our WordPress hosting is better than regular hosting, that we'll refund your money if it's not.
-				
-								</p>
-			</div>
-														
-			<div class="triple-item  item-icon-before  item-icon-medium">
-																	<svg class="icon icon-icon-secure">
-	<use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-secure"></use>
-</svg>												<h3 class="margin-none">WordPress Friendly Security</h3>
-				<p>Our Web Application Firewall protects your WordPress site without causing disruption.
-				
-								</p>
-			</div>
-														
-			<div class="triple-item  item-icon-before  item-icon-medium">
-																	<svg class="icon icon-icon-enhancements">
-	<use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-enhancements"></use>
-</svg>												<h3 class="margin-none">Easy Management</h3>
-				<p>We provide a simple web-based auto-install, auto-upgrade and auto-clone of WordPress, as well as fully updated wp-cli access and git for easy version control.
-				
-								</p>
-			</div>
-														
-			<div class="triple-item  item-icon-before  item-icon-medium">
-																	<svg class="icon icon-icon-litespeed">
-	<use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-litespeed"></use>
-</svg>												<h3 class="margin-none">Blazing Fast TTFB/TTLB</h3>
-				<p>In-server caching delivers exceptional Time To First &amp; Last Byte hosting performance, boosting your SEO web rankings and keeping visitors engaged.
-				
-								</p>
-			</div>
-														
-			<div class="triple-item  item-icon-before  item-icon-medium">
-																	<svg class="icon icon-icon-tick">
-	<use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-tick"></use>
-</svg>												<h3 class="margin-none">WordPress Multisite Support</h3>
-				<p>Our packages include full WordPress Multisite support as standard. 
-				
-								</p>
-			</div>
-														
-			<div class="triple-item  item-icon-before  item-icon-medium">
-																	<svg class="icon icon-icon-clouddb">
-	<use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-clouddb"></use>
-</svg>												<h3 class="margin-none">UK SSD Cloud</h3>
-				<p>All WordPress hosting can be dynamically distributed throughout our 100Gigabit cloud network, balancing demand and improving performance.
-				
-								</p>
-			</div>
-						
-		</div>
-	</div>
-</section>
-	<section class="content  content-pad  content-dblue" id="order">
+        <!-- Default Page Header ends here -->
+        <section class="content  content-pad  whiteBG" id="ultimate">
+            <div class="grid">
+
+                <header class="content-intro">
+                    <figure class="content-split-icon">
+                        <img src="images/svg/wordpress.svg" alt="WordPress Application Hosting">
+                    </figure>
+
+                    <div class="content-split-copy">
+                        <h1>Ultimate UK WordPress Hosting, without the restrictions.</h1>
+
+                        <p>Our <strong>dasabo Shared</strong>, <strong>Reseller</strong> and <strong>Dedicated</strong> <strong>WordPress</strong> hosting is expertly optimised to deliver exceptional TTFB/TTLB (Time To First &amp; Last Byte) speeds. </p>
+                        <p>Leveraging unique in-server caching, your website doesn't even need to engage PHP to begin delivering content - requests are serviced immediately, with no delay.</p>
+                    </div>
+                </header>
+
+                <div class="full">
+
+                    <div class="triple-item  item-icon-before  item-icon-medium">
+                        <svg class="icon icon-icon-uptime">
+                            <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-uptime"></use>
+                        </svg>
+                        <h3 class="margin-none">Guaranteed Faster</h3>
+                        <p>We're so confident that our WordPress hosting is better than regular hosting, that we'll refund your money if it's not.
+
+                        </p>
+                    </div>
+
+                    <div class="triple-item  item-icon-before  item-icon-medium">
+                        <svg class="icon icon-icon-secure">
+                            <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-secure"></use>
+                        </svg>
+                        <h3 class="margin-none">WordPress Friendly Security</h3>
+                        <p>Our Web Application Firewall protects your WordPress site without causing disruption.
+
+                        </p>
+                    </div>
+
+                    <div class="triple-item  item-icon-before  item-icon-medium">
+                        <svg class="icon icon-icon-enhancements">
+                            <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-enhancements"></use>
+                        </svg>
+                        <h3 class="margin-none">Easy Management</h3>
+                        <p>We provide a simple web-based auto-install, auto-upgrade and auto-clone of WordPress, as well as fully updated wp-cli access and git for easy version control.
+
+                        </p>
+                    </div>
+
+                    <div class="triple-item  item-icon-before  item-icon-medium">
+                        <svg class="icon icon-icon-litespeed">
+                            <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-litespeed"></use>
+                        </svg>
+                        <h3 class="margin-none">Blazing Fast TTFB/TTLB</h3>
+                        <p>In-server caching delivers exceptional Time To First &amp; Last Byte hosting performance, boosting your SEO web rankings and keeping visitors engaged.
+
+                        </p>
+                    </div>
+
+                    <div class="triple-item  item-icon-before  item-icon-medium">
+                        <svg class="icon icon-icon-tick">
+                            <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-tick"></use>
+                        </svg>
+                        <h3 class="margin-none">WordPress Multisite Support</h3>
+                        <p>Our packages include full WordPress Multisite support as standard.
+
+                        </p>
+                    </div>
+
+                    <div class="triple-item  item-icon-before  item-icon-medium">
+                        <svg class="icon icon-icon-clouddb">
+                            <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-clouddb"></use>
+                        </svg>
+                        <h3 class="margin-none">UK SSD Cloud</h3>
+                        <p>All WordPress hosting can be dynamically distributed throughout our 100Gigabit cloud network, balancing demand and improving performance.
+
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <section class="content  content-pad  content-dblue" id="order">
             <div class="grid-wide">
                 <h1 class="center  margin-double-mq">Activate your WordPress hosting in minutes.</h1>
 
@@ -223,108 +228,92 @@
                     </div>
                 </div>
 
-                <div class="center  content-split-2third  additional-content-icon">              
+                <div class="center  content-split-2third  additional-content-icon">
                     <p>Need more? <a href="javascript:void(Tawk_API.toggle())"><strong>Contact Us!</strong></a></p>
                 </div>
             </div>
         </section>
-		<section class="testimonials white-bg" id="carousel">
-        <div class="custom-width">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="4000">
-                        <ol class="carousel-indicators">
-                            <li data-target="#fade-quote-carousel" data-slide-to="0" class=""></li>
-                            <li data-target="#fade-quote-carousel" data-slide-to="1" class="active"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="item">
-                                <div class="col-sm-4">
-                                    <div class="text-left">
-                                        <h2>What our clients are saying?</h2>
-                                        <p>It is a long established fact that a reader will be distracted by the
-                                            readable content of a page
-                                            when looking at its layout. </p>
-                                        <div class="buttons">
-                                            <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
+        <section class="testimonials white-bg" id="carousel">
+            <div class="custom-width">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="4000">
+                            <ol class="carousel-indicators">
+                                <li data-target="#fade-quote-carousel" data-slide-to="0" class=""></li>
+                                <li data-target="#fade-quote-carousel" data-slide-to="1" class="active"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="item">
+                                    <div class="col-sm-4">
+                                        <div class="text-left">
+                                            <h2>What our clients are saying?</h2>
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+                                            <div class="buttons">
+                                                <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
                                                 reviews <i class="fas fa-long-arrow-alt-right"></i></a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img src="images/other/testimonial1.jpg" class="img-responsive" alt="">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img src="images/other/testimonial1.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainnam.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainnam.com</small>
-                                    </blockquote>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainname.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
-                                    </blockquote>
                                 </div>
-                            </div>
-                            <div class="item active">
-                                <div class="col-sm-4">
-                                    <div class="text-left">
-                                        <h2>What our clients are saying?</h2>
-                                        <p>It is a long established fact that a reader will be distracted by the
-                                            readable content of a page
-                                            when looking at its layout. </p>
-                                        <div class="buttons">
-                                            <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
+                                <div class="item active">
+                                    <div class="col-sm-4">
+                                        <div class="text-left">
+                                            <h2>What our clients are saying?</h2>
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+                                            <div class="buttons">
+                                                <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
                                                 reviews <i class="fas fa-long-arrow-alt-right"></i></a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img alt="" src="images/other/testimonial1.jpg" class="img-responsive">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img alt="" src="images/other/testimonial1.jpg" class="img-responsive">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainname.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
-                                    </blockquote>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainname.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
-                                    </blockquote>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-	<section class="content content-pad whiteBG" id="features">
+        </section>
+        <section class="content content-pad whiteBG" id="features">
             <div class="grid">
                 <h1 class="center margin-double-mq">Every plan includes these essential features</h1>
 
@@ -375,7 +364,7 @@
                 </div>
             </div>
         </section>
-		<section class="content-pad animateme content-lblue active" id="performance">
+        <section class="content-pad animateme content-lblue active" id="performance">
             <div class="grid">
                 <h1 class="margin-double-mq">Wordpress Hosting Performance</h1>
 
@@ -451,36 +440,36 @@
                 </div>
             </div>
         </section>
-	<div class="layout-text right-layout white-layout padding-bottom50 padding-top50">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="images/png-images/wp-dash.png" class="img-responsive img-shadow aos-init aos-animate" alt="" data-aos="fade-right">
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="text-container aos-init aos-animate" data-aos="fade-up">
-                        <h3>Automatic WordPress Install</h3>
-                        <div class="text-content">
-                            <i class="far fa-check-circle pull-left"></i>
-                            <div class="text">
-                                <p>Through WordPress packages, your site will be installed automatically in a few moments.</p>
+        <div class="layout-text right-layout white-layout padding-bottom50 padding-top50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <img src="images/png-images/wp-dash.png" class="img-responsive img-shadow aos-init aos-animate" alt="" data-aos="fade-right">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="text-container aos-init aos-animate" data-aos="fade-up">
+                            <h3>Automatic WordPress Install</h3>
+                            <div class="text-content">
+                                <i class="far fa-check-circle pull-left"></i>
+                                <div class="text">
+                                    <p>Through WordPress packages, your site will be installed automatically in a few moments.</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="text-content">
-                            <i class="far fa-check-circle pull-left"></i>
-                            <div class="text">
-                                <p>Manage your WordPress site, through a simple and intuitive interface and save time to dedicate to your project!</p>
+                            <div class="text-content">
+                                <i class="far fa-check-circle pull-left"></i>
+                                <div class="text">
+                                    <p>Manage your WordPress site, through a simple and intuitive interface and save time to dedicate to your project!</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="buttons">
-                            <a href="javascript:void(Tawk_API.toggle())" class="btn btn-medium btn-green">Get More Information <i class="fas fa-long-arrow-alt-right"></i></a>
+                            <div class="buttons">
+                                <a href="javascript:void(Tawk_API.toggle())" class="btn btn-medium btn-green">Get More Information <i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <section class="content content-pad content-medblue" id="faqs">
+        <section class="content content-pad content-medblue" id="faqs">
             <div class="grid">
                 <h1 class="margin-double-mq">Wordpress Hosting FAQs</h1>
 
@@ -534,9 +523,10 @@
                 </div>
             </div>
         </section>
-    <!-- Faq ends here -->
-<!-- INCLUSIONE FOOTER -->
-<?php include 'inc/footer.php'; ?> 
-<!-- FINE INCLUSIONE FOOTER -->
-</body>
+        <!-- Faq ends here -->
+        <!-- INCLUSIONE FOOTER -->
+        <?php include 'inc/footer.php'; ?>
+            <!-- FINE INCLUSIONE FOOTER -->
+    </body>
+
 </html>
