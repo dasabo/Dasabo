@@ -368,6 +368,127 @@
                 </div>
             </div>
         </section>
+		<section class="content  content-pad  content-dblue" id="specs">
+            <div class="grid">
+                <h1 class="margin-double-mq">Technical specifications of our Reseller Hosting plans</h1>
+
+                <div class="full">
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Software Stack</h3>
+                        <ul>
+                            <li>CloudLinux 7 (64 bit)</li>
+                            <li>LiteSpeedweb server +HTTP/2</li>
+                            <li>DASABO enhanced cPanel</li>
+                            <li>PHP Versions5-5.6, 7+</li>
+                            <li>MySQL 5.7</li>
+                            <li>Perl, Python, Ruby </li>
+                        </ul>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Hosting Features</h3>
+                        <ul>
+                            <li>cPanel control panel</li>
+                            <li>Custom branding
+                            </li>
+                            <li>Private name servers
+                            </li>
+                            <li>Custom account packages
+                            </li>
+                            <li>Overselling of resources</li>
+                        </ul>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Security &amp; Access </h3>
+                        <ul>
+                            <li>cPanel control panel</li>
+                            <li>SSH access</li>
+                            <li>SFTP (Secure FTP)</li>
+                            <li>WebDAV</li>
+                            <li>Free SSL certificate</li>
+                            <li>Web Application Firewall (WAF)</li>
+                            <li>Automatic malware/virus scanning</li>
+                        </ul>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3> Website Tools </h3>
+                        <ul>
+                            <li> htaccess (mod-rewrite)</li>
+                            <li> cron jobs</li>
+                            <li> Custom error pages (404, 403, etc)
+                            </li>
+                            <li>ImageMagick
+                            </li>
+                            <li>GD, CURL</li>
+                            <li> Zend Optimizer, Ioncube</li>
+                        </ul>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Email </h3>
+                        <ul>
+                            <li>Unlimited accounts, forwarders, POP, IMAP and SMTP </li>
+                            <li>Webmail access</li>
+                            <li>Inbound SPAM filtering by SpamExperts</li>
+                            <li>Outbound SPAM filtering by SpamExperts </li>
+                            <li>Google, Office365 and Exchange compatible
+                            </li>
+                        </ul>
+                        <p>
+                            <br>
+                        </p>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Development tools</h3>
+                        <ul>
+                            <li> Git</li>
+                            <li>Composer</li>
+                            <li>wp-cli</li>
+                            <li>Drush</li>
+                            <li>Others on request</li>
+                        </ul>
+                        <p>
+                            <br>
+                        </p>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Auto Install Applications </h3>
+                        <ul>
+                            <li>Wordpress
+                            </li>
+                            <li>Joomla</li>
+                            <li>Drupal</li>
+                            <li>WooCommerce</li>
+                            <li>&amp; More.</li>
+                        </ul>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Hardware</h3>
+                        <ul>
+                            <li>Latest Dell hardware</li>
+                            <li>Fully redundant by design</li>
+                            <li>100 gigabit data network</li>
+                            <li>SSD NVMe flash based storage</li>
+                        </ul>
+                        <p>
+                            <br>
+                        </p>
+                    </div>
+                    <div class="triple-item  bullets-small-tick">
+                        <h3>Technical Support</h3>
+                        <ul>
+                            <li>Multilingual technical support</li>
+                            <li>Based onsite at our data centre</li>
+                            <li>Request help by email, helpdesk or telephone</li>
+                            <li>24x7x365</li>
+                            <li>Friendly advice always available</li>
+                        </ul>
+                        <p>
+                            <br>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
     <!-- Faq -->
     <div class="faq padding-bottom50 padding-top50 gray-bg">
         <div class="custom-width">
