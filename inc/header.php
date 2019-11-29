@@ -86,11 +86,11 @@
                                         <h6 style="color:#fff"class="title"><i class="fas fa-cloud-download-alt"></i>Application</h6>
                                         <div class="content">
                                             <ul class="menu-col">
-                                                <li><a href="application/wordpress-hosting">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
-												<li><a href="application/woocommerce-hosting">Woocommerce Hosting</a></li>
-												<li><a href="application/magento-hosting">Magento Hosting</a></li>
-                                                <li><a href="application/prestashop-hosting">Prestashop Hosting</a></li>
-                                                <li><a href="application/joomla-hosting">Joomla Hosting</a></li>
+                                                <li><a href="wordpress-hosting">Wordpress Hosting<span class="badge-link">Hot</span></a></li>
+												<li><a href="woocommerce-hosting">Woocommerce Hosting</a></li>
+												<li><a href="magento-hosting">Magento Hosting</a></li>
+                                                <li><a href="prestashop-hosting">Prestashop Hosting</a></li>
+                                                <li><a href="joomla-hosting">Joomla Hosting</a></li>
 
                                             </ul>
                                         </div>
