@@ -44,7 +44,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
 
             <div class="collapse navbar-collapse" id="navbar-menu">
-                <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
+                <ul class="nav navbar-nav navbar-right" >
 				  <li  ><a class="uppermenupro" href="#"><i class="fas fa-user"></i> Your client account</a></li>
                    <li ><a class="uppermenupro" href="#"><i class="far fa-envelope"></i> Webmail</a></li>
 					<li ><a class="uppermenupro" href="#"><i class="fas fa-phone"></i> Support</a></li>
@@ -67,7 +67,7 @@
 			<div class="custom-width">
 
 			<div class="collapse navbar-collapse" id="navbar-menu">
-                <ul class="nav navbar-nav " data-in="fadeIn" data-out="fadeOut" style="margin-left:0%">
+                <ul class="nav navbar-nav "  style="margin-left:0%">
 				  <li style="padding-right:95px; padding-left:95px;"><a href="#">Domain</a></li>
                   <li style="padding-right:95px; padding-left:95px;" class="dropdown megamenu-fw">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>

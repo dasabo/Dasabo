@@ -198,7 +198,7 @@ p,
 li,
 a {
 
-    transition: .2s linear;
+    transition: 0s linear;
     font-family: 'Overpass';
     margin-bottom: 0;
 }
@@ -416,20 +416,20 @@ li {
 
 /* customization animations */
 .fadeIn {
-    animation-duration: .2s;
-    animation-delay: 80ms;
+    animation-duration: 0s;
+    animation-delay: 0ms;
 }
 
 .fadeOut {
-    animation-duration: .2s;
+    animation-duration: 0s;
 }
 
 .fadeInLeft {
-    animation-duration: .7s;
+    animation-duration: 0s;
 }
 
 .fadeInRight {
-    animation-duration: .7s;
+    animation-duration: 0s;
 }
 
 @-webkit-keyframes fadeInLeft {
@@ -508,8 +508,8 @@ li {
     position: relative;
     top: 50%;
     margin: 0 auto;
-    -webkit-animation: rotate 2.0s infinite linear;
-    animation: rotate 2.0s infinite linear;
+    -webkit-animation: rotate 0s infinite linear;
+    animation: rotate 0s infinite linear;
 }
 
 .dot1,
