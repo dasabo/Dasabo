@@ -12,7 +12,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
     <meta name="robots" content="index, follow">
     <!-- Page title -->
-    <title>Hosting,Domain,Cloud & Server - Dasabo</title>
+    <title>Dasabo: Hosting,Domain,Cloud & Server</title>
     <!-- CSS FILES -->
     <link rel="stylesheet" href="css/fontawesome-icons/css/all.min.css">
     <link rel="stylesheet" href="css/bootsnav.css">
@@ -36,31 +36,6 @@
         <!-- Home Page Carousel -->
         <div class="home-carousel">
             <!-- MODAL  -->
-            <div id="myModal" class="modal fade" role="dialog">
-                <div class="modal-dialog modal-sm">
-                    <!-- Modal content-->
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Please feel free to contact us</h4>
-                        </div>
-                        <div class="modal-body">
-                            <div class="modal-contact">
-                                <i class="fa fa-phone"></i>
-                                <h4>+44 (207) 8552 501</h4>
-                            </div>
-                            <div class="modal-contact">
-                                <i class="fa fa-envelope"></i>
-                                <h4>hello@dasabo.net</h4>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-blue btn-small" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
             <!-- end of modal -->
 
             <!-- Left Sidebar ends here -->
@@ -181,46 +156,46 @@
                 <ul class="application-logos  application-logos-featured">
 
                     <li>
-                        <a href="application-hosting/wordpress-hosting.html" description="Dasabo's WordPress Hosting">
+                        <a href="wordpress-hosting" description="Dasabo's WordPress Hosting">
 
                             <img src="images/svg/wordpress.svg"></img>
                         </a>
-                        <h5><a href="application-hosting/wordpress-hosting.html">WordPress Hosting</a></h5>
+                        <h5><a href="wordpress-hosting">WordPress Hosting</a></h5>
 
                         <li>
-                            <a href="application-hosting/drupal-hosting.html" description="Find out more on Dasabo's Drupal Hosting">
+                            <a href="drupal-hosting" description="Find out more on Dasabo's Drupal Hosting">
 
                                 <img src="images/svg/drupal.svg"></img>
                             </a>
-                            <h5><a href="application-hosting/drupal-hosting.html">Drupal Hosting</a></h5>
+                            <h5><a href="drupal-hosting">Drupal Hosting</a></h5>
 
                             <li>
                                 <a href="application-hosting/magento-hosting.html" description="Find out more on Dasabo's Magento Hosting">
 
                                     <img src="images/svg/magento.svg"></img>
                                 </a>
-                                <h5><a href="application-hosting/magento-hosting.html">Magento Hosting</a></h5>
+                                <h5><a href="magento-hosting">Magento Hosting</a></h5>
 
                                 <li>
-                                    <a href="application-hosting/joomla-hosting.html" description="Find out more on Dasabo's Joomla Hosting">
+                                    <a href="joomla-hosting" description="Find out more on Dasabo's Joomla Hosting">
 
                                         <img src="images/svg/joomla.svg"></img>
                                     </a>
-                                    <h5><a href="application-hosting/joomla-hosting.html">Joomla Hosting</a></h5>
+                                    <h5><a href="joomla-hosting">Joomla Hosting</a></h5>
 
                                     <li>
-                                        <a href="application-hosting/woocommerce-hosting" description="Find out more on Dasabo's WooCommerce Hosting">
+                                        <a href="woocommerce-hosting" description="Find out more on Dasabo's WooCommerce Hosting">
 
                                            <img src="images/svg/woocommerce.svg"></img>
                                         </a>
                                         <h5><a href="application-hosting/woocommerce-hosting">WooCommerce Hosting</a></h5>
 
                                         <li>
-                                            <a href="application-hosting/prestashop-hosting.html" description="Find out more on Dasabo's Prestashop Hosting">
+                                            <a href="prestashop-hosting" description="Find out more on Dasabo's Prestashop Hosting">
 
                                                 <img src="images/svg/prestashop.svg"></img>
                                             </a>
-                                            <h5><a href="application-hosting/prestashop-hosting.html">Prestashop Hosting</a></h5>
+                                            <h5><a href="prestashop-hosting">Prestashop Hosting</a></h5>
                 </ul>
                 <ul class="application-logos  application-logos-sub" id="subApps">
         </section>
@@ -237,44 +212,41 @@
                             <div class="pricing-title">
                                 <h2 class="margin-none">Shared</h2>
                                 <h6 class="margin-quarter  planSubtitle-margin">Cloud Hosting</h6>
-                                <div class="pro-includes-available  margin-half"><a href="shared-hosting-pro.html" class="link-subtle"><span class="text-milli  label-sml">Available in</span></a> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="badge-pro  badge-pro-sml  tip">Pro<span class="badge-help">?</span></abbr></div>
+                                <div class="pro-includes-available  margin-half"><a href="shared-hosting-pro.html" class="link-subtle"></a></div>
                             </div>
 
                             <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text-giga  margin-none"><span class="price-new">£3.99</span><span class="price-original">£9.99 </span></div>
+                                <div class="text-giga  margin-none"><span class="price-new">€4.99</span><span class="price-original">€9.99 </span></div>
                                 <h7 class="pricing-period  pricing-period-promo">/Month</h7>
                             </div>
                         </header>
 
-                        <p class="pricing-desc">Fully Managed UK Web Hosting optimised for your application. Secure, easy control panel, high performance and our legendary 24x7 support.</p>
+                        <p class="pricing-desc">Fully Managed Web Hosting optimised for your application. Secure, easy control panel, high performance and our legendary 24x7 support.</p>
 
                         <ul class="pricing-desc  pricing-list  bullets-small-tick">
                             <li>Perfect for WordPress &amp; WooCommerce</li>
                             <li>Backups as standard</li>
                             <li>cPanel &amp; LiteSpeed Powered</li>
                             <li>Free migration service</li>
-                            <li></li>
-                            <li>Only £1+VAT till 1st Jan 2020! </li>
+                        
                         </ul>
 
                         <hr/>
                         <h3 class="font-heading  margin-half  center">Learn More</h3>
                         <div class="center  clear">
-                            <a href="shared-hosting.html" class="btn  btn-pair-full ">Shared</a>
-                            <a href="shared-hosting-pro.html" class="btn  btn-dark  btn-pair-full"><span class="btn-with-badge">Shared</span> <span class="badge-pro  badge-pro-sml-alt2">Pro</span></a> </div>
+                            <a href="shared-hosting" class="btn  btn-full ">Shared</a> </div>
                     </div>
                     <div class="pricing-item-3  content  content-light  pricing-feature">
                         <header class="pricing-header">
                             <div class="pricing-title">
                                 <h2 class="margin-none">Reseller</h2>
                                 <h6 class="margin-quarter  planSubtitle-margin">Cloud Hosting</h6>
-                                <div class="pro-includes-available  margin-half"><a href="reseller-hosting-pro.html" class="link-subtle"><span class="text-milli  label-sml">Available in</span></a> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="badge-pro  badge-pro-sml  tip">Pro<span class="badge-help">?</span></abbr></div>
                             </div>
 
                             <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text-giga  margin-none"><span class="price-new">£1</span><span class="price-original">£24.99 </span></div>
+                                <div class="text-giga  margin-none"><span class="price-new">€24.99</span><span class="price-original">€34.99 </span></div>
                                 <h7 class="pricing-period  pricing-period-promo">/Month</h7>
                             </div>
                         </header>
@@ -286,27 +258,25 @@
                             <li>cPanel/WHM Included </li>
                             <li>CloudLinux Security &amp; LiteSpeed Performance</li>
                             <li>Free migration service</li>
-                            <li></li>
-                            <li>Only £1+VAT till 1st Jan 2020! </li>
+                    
+                        
                         </ul>
 
                         <hr/>
                         <h3 class="font-heading  margin-half  center">Learn More</h3>
                         <div class="center  clear">
-                            <a href="reseller-hosting.html" class="btn  btn-pair-full ">Reseller</a>
-                            <a href="reseller-hosting-pro.html" class="btn  btn-dark  btn-pair-full"><span class="btn-with-badge">Reseller</span> <span class="badge-pro  badge-pro-sml-alt2">Pro</span></a> </div>
+                          <a href="reseller-hosting" class="btn  btn-full ">Reseller</a> </div>
                     </div>
                     <div class="pricing-item-3  content  content-light">
                         <header class="pricing-header">
                             <div class="pricing-title">
                                 <h2 class="margin-none">Dedicated</h2>
                                 <h6 class="margin-quarter  planSubtitle-margin">Cloud Server</h6>
-                                <div class="pro-includes-available  margin-half"><span class="text-milli  label-sml">Includes</span> <abbr data-tip="Dasabo PRO are our top-tier services, designed with features and performance for professionals and business" class="tip  badge-pro  badge-pro-sml">Pro<span class="badge-help">?</span></abbr></div>
                             </div>
 
                             <div class="pricing-price">
                                 <h7>From</h7>
-                                <div class="text-giga  margin-none"><span class="price-new">£1</span><span class="price-original">£129 </span></div>
+                                <div class="text-giga  margin-none"><span class="price-new">€129</span><span class="price-original">€149 </span></div>
                                 <h7 class="pricing-period  pricing-period-promo">/Month</h7>
                             </div>
                         </header>
@@ -318,18 +288,18 @@
                             <li>Hourly Backups as standard</li>
                             <li>cPanel &amp; LiteSpeed Powered</li>
                             <li>Free migration service</li>
-                            <li></li>
-                            <li>Only £1+VAT till 1st Jan 2020! </li>
+                
+                         
                         </ul>
 
                         <hr/>
                         <h3 class="font-heading  margin-half  center">Learn More</h3>
-                        <a href="dedicated-hosting.html" class="btn  btn-pro  btn-full"><span class="btn-with-badge">Dedicated</span> <span class="badge-pro badge-pro-reverse badge-pro-sml-alt2">Pro</span></a>
+                        <a href="dedicated-hosting" class="btn  btn-full ">Dedicated</a>
                     </div>
                 </div>
 
                 <div class="center  clear  content-simple  margin-top">
-                    <p><a href="shared-hosting.html">Shared</a>, <a href="reseller-hosting.html">Reseller </a>and <a href="dedicated-hosting.html">Dedicated </a>Hosting Plans come with our ultra-fast WordPress, WooCommerce, Magento, Drupal, Joomla and PrestaShop cache service as standard. </p>
+                    <p><a href="shared-hosting">Shared</a>, <a href="reseller-hosting">Reseller </a>and <a href="dedicated-hosting">Dedicated </a>Hosting Plans come with our ultra-fast WordPress, WooCommerce, Magento, Drupal, Joomla and PrestaShop cache service as standard. </p>
                 </div>
             </div>
         </section>
