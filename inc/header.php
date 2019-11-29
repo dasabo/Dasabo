@@ -16,7 +16,7 @@
     </div>
     <!-- End of topbar -->
 <!-- Navbar content -->
-<script defer src="https://friconix.com/cdn/friconix.js"></script> 
+<script defer src="https://friconix.com/cdn/friconix.js"></script>
     <nav class="navbar navbar-default dark navbar-sticky no-background bootsnav" style="background: #fff; !important;">
         <!-- Start Top Search -->
         <div class="top-search">
@@ -45,10 +45,10 @@
 
             <div class="collapse navbar-collapse" id="navbar-menu">
                 <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
-				  <li  ><a class="uppermenupro" href="#">Your client account</a></li>
-                   <li ><a class="uppermenupro" href="#">Webmail</a></li>
-					<li ><a class="uppermenupro" href="#">Support</a></li>
-                      <li>  <a class="uppermenupro" href="#"><select class="selectpicker" data-width="fit">
+				  <li  ><a class="uppermenupro" href="#"><i class="fas fa-user"></i> Your client account</a></li>
+                   <li ><a class="uppermenupro" href="#"><i class="far fa-envelope"></i> Webmail</a></li>
+					<li ><a class="uppermenupro" href="#"><i class="fas fa-phone"></i> Support</a></li>
+                      <li>  <a class="uppermenupro" href="#"><select class="selectpicker" style="background: #f1f1f1;margin-top:-3px; border: 0px solid aliceblue;padding: 5px;" data-width="fit">
     <option data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
   <option  data-content='<span class="flag-icon flag-icon-mx"></span> Español'>Español</option>
 </select></a>   </li>
@@ -57,6 +57,70 @@
 
         </div>
     </nav>
+
+
+    <style>
+/*the container must be positioned relative:*/
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none; /*hide original SELECT element:*/
+}
+
+.select-selected {
+  background-color: DodgerBlue;
+}
+
+/*style the arrow inside the select element:*/
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+/*style the items (options), including the selected item:*/
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+  user-select: none;
+}
+
+/*style items (options):*/
+.select-items {
+  position: absolute;
+  background-color: DodgerBlue;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/*hide the items when the select box is closed:*/
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+</style>
 
 
     	<nav class="navbar navbar-default dark navbar-sticky no-background bootsnav">
