@@ -141,7 +141,7 @@
                                             <ul class="menu-col">
                                                 <li><a href="shared-hosting">Shared Cloud Hosting</a></li>
                                                 <li><a href="semidedicated-hosting">Semi-Dedicated Hosting <span class="badge-link">Hot</span></a></li>
-                                                <li><a href="dedicated-hosting">Dedicated Hosting<span class="badge-link blinkme">Soon</span></a></li>
+                                                <li><a href="dedicated-hosting">Dedicated Hosting</a></li>
                                                 <li><a href="reseller-hosting">Reseller Hosting</a></li>
                                             </ul>
                                         </div>
