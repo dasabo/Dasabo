@@ -129,9 +129,9 @@
                                         <h6 style="color:#fff" class="title"><i class="fa fa-rocket"></i>Hosting Solutions</h6>
                                         <div class="content">
                                             <ul class="menu-col">
-                                                <li><a href="#">Web Designer Hosting</a></li>
-												<li><a href="#">E-Commerce Hosting</a></li>
-												<li><a href="#">Reseller Hosting</a></li>
+                                                <li><a href="reseller-hosting">Web Designer Hosting</a></li>
+												<li><a href="dedicated-hosting">E-Commerce Hosting</a></li>
+												<li><a href="reseller-hosting">Reseller Hosting</a></li>
 												<li><a href="#">Migrations</a></li>
                                             </ul>
                                         </div>

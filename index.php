@@ -8,11 +8,11 @@
     <meta name="description" content="Dasabo - Best hosting solution for Business and Freelancer">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Dasabo">
-    <meta name="keywords" content="                  ">
+    <meta name="keywords" content="hosting,domain,webhosting,wordpress,joomla,woocommerce,magento,reseller hosting,hosting solutions,unlimited webhosting,shared hosting,cloud hosting,cloud,vps,dedicated server">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
     <meta name="robots" content="index, follow">
     <!-- Page title -->
-    <title>Dasabo: Hosting,Domain,Cloud & Server</title>
+    <title>Dasabo: Best Hosting Solution</title>
     <!-- CSS FILES -->
     <link rel="stylesheet" href="css/fontawesome-icons/css/all.min.css">
     <link rel="stylesheet" href="css/bootsnav.css">
@@ -186,7 +186,7 @@
                                     <li>
                                         <a href="woocommerce-hosting" description="Find out more on Dasabo's WooCommerce Hosting">
 
-                                           <img src="images/svg/woocommerce.svg"></img>
+                                            <img src="images/svg/woocommerce.svg"></img>
                                         </a>
                                         <h5><a href="application-hosting/woocommerce-hosting">WooCommerce Hosting</a></h5>
 
@@ -212,7 +212,9 @@
                             <div class="pricing-title">
                                 <h2 class="margin-none">Shared</h2>
                                 <h6 class="margin-quarter  planSubtitle-margin">Cloud Hosting</h6>
-                                <div class="pro-includes-available  margin-half"><a href="shared-hosting-pro.html" class="link-subtle"></a></div>
+                                <div class="pro-includes-available  margin-half">
+                                    <a href="shared-hosting-pro.html" class="link-subtle"></a>
+                                </div>
                             </div>
 
                             <div class="pricing-price">
@@ -229,7 +231,7 @@
                             <li>Backups as standard</li>
                             <li>cPanel &amp; LiteSpeed Powered</li>
                             <li>Free migration service</li>
-                        
+
                         </ul>
 
                         <hr/>
@@ -258,14 +260,13 @@
                             <li>cPanel/WHM Included </li>
                             <li>CloudLinux Security &amp; LiteSpeed Performance</li>
                             <li>Free migration service</li>
-                    
-                        
+
                         </ul>
 
                         <hr/>
                         <h3 class="font-heading  margin-half  center">Learn More</h3>
                         <div class="center  clear">
-                          <a href="reseller-hosting" class="btn  btn-full ">Reseller</a> </div>
+                            <a href="reseller-hosting" class="btn  btn-full ">Reseller</a> </div>
                     </div>
                     <div class="pricing-item-3  content  content-light">
                         <header class="pricing-header">
@@ -288,8 +289,7 @@
                             <li>Hourly Backups as standard</li>
                             <li>cPanel &amp; LiteSpeed Powered</li>
                             <li>Free migration service</li>
-                
-                         
+
                         </ul>
 
                         <hr/>
@@ -307,137 +307,144 @@
 
         <!-- Separated Section -->
         <section class="testimonials white-bg" id="carousel">
-        <div class="custom-width">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="4000">
-                        <ol class="carousel-indicators">
-                            <li data-target="#fade-quote-carousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#fade-quote-carousel" data-slide-to="1" class=""></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="item active">
-                                <div class="col-sm-4">
-                                    <div class="text-left">
-                                        <h2>What our clients are saying?</h2>
-                                        <p>It is a long established fact that a reader will be distracted by the
-                                            readable content of a page
-                                            when looking at its layout. </p>
-                                        <div class="buttons">
-                                            <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
+            <div class="custom-width">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="4000">
+                            <ol class="carousel-indicators">
+                                <li data-target="#fade-quote-carousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#fade-quote-carousel" data-slide-to="1" class=""></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <div class="col-sm-4">
+                                        <div class="text-left">
+                                            <h2>What our clients are saying?</h2>
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+                                            <div class="buttons">
+                                                <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
                                                 reviews <i class="fas fa-long-arrow-alt-right"></i></a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img src="images/other/testimonial1.jpg" class="img-responsive" alt="">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img src="images/other/testimonial1.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainnam.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainnam.com</small>
-                                    </blockquote>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainname.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
-                                    </blockquote>
                                 </div>
-                            </div>
-                            <div class="item">
-                                <div class="col-sm-4">
-                                    <div class="text-left">
-                                        <h2>What our clients are saying?</h2>
-                                        <p>It is a long established fact that a reader will be distracted by the
-                                            readable content of a page
-                                            when looking at its layout. </p>
-                                        <div class="buttons">
-                                            <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
+                                <div class="item">
+                                    <div class="col-sm-4">
+                                        <div class="text-left">
+                                            <h2>What our clients are saying?</h2>
+                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+                                            <div class="buttons">
+                                                <a href="#" class="btn btn-small btn-outline outline-dark">Check out all
                                                 reviews <i class="fas fa-long-arrow-alt-right"></i></a>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img alt="" src="images/other/testimonial1.jpg" class="img-responsive">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img alt="" src="images/other/testimonial1.jpg" class="img-responsive">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainname.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
-                                    </blockquote>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                    <div class="col-sm-4">
+                                        <div class="profile-circle"><img src="images/other/testimonial2.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <blockquote>
+                                            <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
+                                                <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias.
+                                                <i class="fa quote fa-quote-right fa-sm "></i></p>
+                                            <small>www.domainname.com</small>
+                                        </blockquote>
                                     </div>
-                                    <blockquote>
-                                        <p><i class="fa quote fa-quote-right fa-sm pull-left"></i>
-                                            <br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis
-                                            nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos
-                                            eaque
-                                            molestias.<i class="fa quote fa-quote-right fa-sm "></i></p>
-                                        <small>www.domainname.com</small>
-                                    </blockquote>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-  <section class="content-mblue  content-triple-blocks  center" id="performance">
-			<h1 class="grid  padding-top">Why thousands trust Dasabo's Hosting</h1>
+        <section class="content-mblue  content-triple-blocks  center" id="performance">
+            <h1 class="grid  padding-top">Why thousands trust Dasabo's Hosting</h1>
 
-			<div class="content-triple-item">
-			<h2>Performance</h2>
+            <div class="content-triple-item">
+                <h2>Performance</h2>
 
-															<div class="svg-anim" id="security-anim">
-	<img src="images/svg/performance.svg"></img>
+                <div class="svg-anim" id="security-anim">
+                    <img src="images/svg/performance.svg"></img>
 
-</div>
+                </div>
 
+                <div class="text-left">
+                    <ul>
+                        <li>High Performance Web Server</li>
+                        <li>Latest Generation Hardware
+                        </li>
+                        <li>SSD Flash Storage</li>
+                        <li>HTTP/2 and QUIC Enabled</li>
+                        <li>100Gbps Network <strong><br></strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="content-triple-item">
+                <h2>Security</h2>
 
-			<div class="text-left"><ul><li>High Performance Web Server</li><li>Latest Generation Hardware
- </li><li>SSD Flash Storage</li><li>HTTP/2 and QUIC Enabled</li><li>100Gbps Network <strong><br></strong></li></ul></div>
-		</div>
-			<div class="content-triple-item">
-			<h2>Security</h2>
+                <div class="svg-anim" id="security-anim">
+                    <img src="images/svg/firewall.svg"></img>
 
-													<div class="svg-anim" id="security-anim">
-	<img src="images/svg/firewall.svg"></img>
+                </div>
+                <div class="text-left">
+                    <ul>
+                        <li>PCI-DSS Scan Compliant</li>
+                        <li>Free SSL Certificates</li>
+                        <li>Private Account Environment </li>
+                        <li>Web Application Firewall (WAF)</li>
+                        <li>1500Gbps DDOS Protection<strong><br></strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="content-triple-item">
+                <h2>Reliability</h2>
 
-</div>
-			<div class="text-left"><ul><li>PCI-DSS Scan Compliant</li><li>Free SSL Certificates</li><li>Private Account Environment </li><li>Web Application Firewall (WAF)</li><li>1500Gbps DDOS Protection<strong><br></strong></li></ul></div>
-		</div>
-			<div class="content-triple-item">
-			<h2>Reliability</h2>
+                <div class="svg-anim" id="security-anim">
+                    <img src="images/svg/shield.svg"></img>
 
-																									<div class="svg-anim" id="security-anim">
-	<img src="images/svg/shield.svg"></img>
-
-</div>
-			<div class="text-left"><ul><li>100% Uptime Guarantee
- </li><li>24/7 UK Based Helpdesk</li><li>Self-Healing Intelligent Cloud</li><li>Backups Included As Standard</li><li>Data Replicated Hourly Off-site<strong><br></strong></li></ul></div>
-		</div>
-	</section>
+                </div>
+                <div class="text-left">
+                    <ul>
+                        <li>100% Uptime Guarantee
+                        </li>
+                        <li>24/7 UK Based Helpdesk</li>
+                        <li>Self-Healing Intelligent Cloud</li>
+                        <li>Backups Included As Standard</li>
+                        <li>Data Replicated Hourly Off-site<strong><br></strong></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
         <!-- INCLUSIONE FOOTER -->
         <?php include 'inc/footer.php'; ?>
             <!-- FINE INCLUSIONE FOOTER -->

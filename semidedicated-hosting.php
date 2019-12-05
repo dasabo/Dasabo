@@ -5,11 +5,12 @@
     <!--- Meta tags --->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Bluerack - The most powerful web hosting template with fully customized WHMCS Template">
+    <meta name="description" content="Make your site faster with twice the dedicated performance.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="ThemeKolor">
-    <meta name="keywords" content="vps,dedicated,cloud,hosting,hosting template,whmcs, hosting whmcs,whmcs template">
+    <meta name="author" content="Dasabo">
+    <meta name="keywords" content="hosting,domain,webhosting,wordpress,joomla,woocommerce,magento,reseller hosting,hosting solutions,unlimited webhosting,shared hosting,cloud hosting,cloud,vps,dedicated server,semidedicated hosting">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
+    <meta name="robots" content="index, follow">
     <!--- Page title --->
     <title>Semi-Dedicated Hosting</title>
     <!-- CSS FILES -->

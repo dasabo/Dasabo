@@ -5,13 +5,14 @@
     <!-- Meta tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Bluerack - The most powerful web hosting template with fully customized WHMCS Template">
+    <meta name="description" content="Hosting of self-installing WordPress with various management tools.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="ThemeKolor">
-    <meta name="keywords" content="vps,dedicated,cloud,hosting,hosting template,whmcs, hosting whmcs,whmcs template">
+    <meta name="author" content="Dasabo">
+    <meta name="keywords" content="hosting,domain,webhosting,wordpress,joomla,woocommerce,magento,reseller hosting,hosting solutions,unlimited webhosting,shared hosting,cloud hosting,cloud,vps,dedicated server">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
+    <meta name="robots" content="index, follow">
     <!-- Page title -->
-    <title>Managed Wordpress Hosting</title>
+    <title>Managed WordPress Hosting</title>
     <!-- CSS FILES -->
     <link rel="stylesheet" href="css/fontawesome-icons/css/all.min.css">
     <link rel="stylesheet" href="css/bootsnav.css">
@@ -33,7 +34,7 @@
         <header class="masthead  content  content-blue-gradient">
             <div class="grid">
                 <div class="masthead-content  content-pad">
-                    <h1 class=""><p>UltraFast Wordpress Hosting</p></h1>
+                    <h1 class=""><p>UltraFast WordPress Hosting</p></h1>
 
                     <p>Guaranteed to make your WordPress site run quicker on our optimised stack, or your money back.</p>
 
@@ -71,7 +72,7 @@
                     </figure>
 
                     <div class="content-split-copy">
-                        <h1>Ultimate UK WordPress Hosting, without the restrictions.</h1>
+                        <h1>Ultimate WordPress Hosting, without the restrictions.</h1>
 
                         <p>Our <strong>dasabo Shared</strong>, <strong>Reseller</strong> and <strong>Dedicated</strong> <strong>WordPress</strong> hosting is expertly optimised to deliver exceptional TTFB/TTLB (Time To First &amp; Last Byte) speeds. </p>
                         <p>Leveraging unique in-server caching, your website doesn't even need to engage PHP to begin delivering content - requests are serviced immediately, with no delay.</p>
@@ -134,7 +135,7 @@
                         <svg class="icon icon-icon-clouddb">
                             <use xlink:href="/assets/svg/processed/dasabo-sprite.svg#icon-clouddb"></use>
                         </svg>
-                        <h3 class="margin-none">UK SSD Cloud</h3>
+                        <h3 class="margin-none">SSD Cloud</h3>
                         <p>All WordPress hosting can be dynamically distributed throughout our 100Gigabit cloud network, balancing demand and improving performance.
 
                         </p>

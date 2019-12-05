@@ -5,11 +5,12 @@
     <!-- Meta tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Bluerack - The most powerful web hosting template with fully customized WHMCS Template">
+    <meta name="description" content="Shared hosting managed by our team for the best experience.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="ThemeKolor">
-    <meta name="keywords" content="vps,dedicated,cloud,hosting,hosting template,whmcs, hosting whmcs,whmcs template">
+    <meta name="author" content="Dasabo">
+    <meta name="keywords" content="hosting,domain,webhosting,wordpress,joomla,woocommerce,magento,reseller hosting,hosting solutions,unlimited webhosting,shared hosting,cloud hosting,cloud,vps,dedicated server,semidedicated hosting">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
+    <meta name="robots" content="index, follow">
     <!-- Page title -->
     <title>Shared Hosting</title>
     <!-- CSS FILES -->
@@ -48,7 +49,7 @@
                 <aside class="masthead-aside">
                     <div class="svg-anim active" id="uptime-anim">
                         <svg class="uptime-anim" data-name="uptime anim" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.63 146.83" style="visibility: visible;">
-                        
+
                             <img src="images/svg/server.svg"></img>
 
                         </svg>
@@ -69,7 +70,7 @@
             </ul>
         </nav>
 
-       <!-- INIZIO FEATURES -->
+        <!-- INIZIO FEATURES -->
         <section class="content  content-pad  whiteBG" id="features">
             <div class="grid">
                 <h1 class="margin-double-mq">Strong and powerful cloud infrastructure for your business!</h1>
@@ -121,7 +122,7 @@
                 </div>
             </div>
         </section>
-		<!-- FINE FEATURES -->
+        <!-- FINE FEATURES -->
         <section class="content  content-pad  content-dblue" id="order">
             <div class="grid-wide">
                 <h1 class="center  margin-double-mq">Order DASABO Shared Hosting now and be set up in minutes</h1>
@@ -280,8 +281,8 @@
                 </ul>
             </div>
         </section>
-		<!-- FINE BLOCCO APPLICAZIONI -->
-		<!-- BLOCCO PERFORMANCE -->
+        <!-- FINE BLOCCO APPLICAZIONI -->
+        <!-- BLOCCO PERFORMANCE -->
         <section class="content-pad animateme content-lblue active" id="performance">
             <div class="grid">
                 <h1 class="margin-double-mq">Best Performance Hosting</h1>
@@ -358,7 +359,7 @@
                 </div>
             </div>
         </section>
-		<!-- FINE BLOCCO PERFORMANCE -->
+        <!-- FINE BLOCCO PERFORMANCE -->
         <!-- Faq -->
         <section class="content  content-pad  content-dblue" id="specs">
             <div class="grid">
