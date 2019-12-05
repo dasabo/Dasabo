@@ -138,7 +138,7 @@
                                     </div>
 						</ul>
 						</li>
-                      <li style="padding-right:95px; padding-left:95px;">  <a href="#">Affiliate</a>   </li>
+                      <li style="padding-right:95px; padding-left:95px;">  <a href="#">Affiliate</a></li>
                 </ul>
             </div>
 
